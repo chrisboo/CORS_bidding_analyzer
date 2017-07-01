@@ -5,7 +5,6 @@ import urllib.request
 sauce = urllib.request.urlopen('http://www.nus.edu.sg/cors/Archive/201617_Sem1/successbid_1A_20162017s1.html').read()
 soup = bs.BeautifulSoup(sauce, 'lxml')
 
-table = soup.table
 table_rows = soup.find_all('tr')
 
 data = []
