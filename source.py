@@ -7,4 +7,4 @@ def getSource(url):
 
     urls = soup.find_all('a', href=True)
 
-    return [url.get('href') for url in urls if url.get('href').startswith('./Archive')]
+    return [url.get('href') for url in urls if url.get('href').startswith('./Archive') and "successbid" in url.get('href')]
