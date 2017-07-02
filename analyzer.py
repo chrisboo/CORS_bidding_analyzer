@@ -1,6 +1,7 @@
-import bs4 as bs
 import pandas as pd
-import urllib.request
+from source import getSource
+
+urlSources = getSource('http://www.cors.nus.edu.sg/archive.html');
 
 sauce = urllib.request.urlopen('http://www.nus.edu.sg/cors/Archive/201617_Sem1/successbid_1A_20162017s1.html').read()
 soup = bs.BeautifulSoup(sauce, 'lxml')
