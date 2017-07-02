@@ -2,7 +2,7 @@ import bs4 as bs
 import urllib.request
 
 def usefulSource(url):
-    return url.startswith('./Archive') and "successbid" in url.get('href');
+    return url.startswith('./Archive') and "successbid" in url
 
 def getSource(url):
     rawHTML = urllib.request.urlopen(url).read()
