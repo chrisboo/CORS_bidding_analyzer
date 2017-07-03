@@ -12,6 +12,9 @@ def year(fname):
 def biddingRound(fname):
     return fname[25:27]
 
+def label(year):
+    return 'AY' + year[2:4] + '/' + year[6:8]
+
 def query(module, faculty, sem, accType, newStudent):
     location = './dataset/'
 
@@ -65,9 +68,23 @@ def query(module, faculty, sem, accType, newStudent):
     maxX, maxY = zip(*maxResult)
     minX, minY = zip(*minResult)
 
+    # plot
     fig, ax = plt.subplots()
-    topLine = ax.plot(maxY, 'ko-', label='Max lowestSuccBid among all rounds')
-    botLine = ax.plot(minY, 'ro-', label='Min lowestSuccBid among all rounds')
+    topLine = ax.plot(maxY, 'ro-', label='Max lowestSuccBid among all rounds')
+    botLine = ax.plot(minY, 'ko-', label='Min lowestSuccBid among all rounds')
+
+    # label
+    ax.set_xlabel('Academic Year', fontsize=12)
+    ax.set_ylabel('Bid Points', fontsize=12)
+
+    lines = topLine + botLine
+    labels = [line.get_label() for line in lines]
+    ax.legend(lines, labels, loc='upper center')
+
+    # categorical xticks
+    plt.xticks(range(len(maxX)), [label(year) for year in maxX], size='small')
+
+    plt.suptitle('Bidding History for ' + module, fontsize=20)
 
     plt.show()
 
