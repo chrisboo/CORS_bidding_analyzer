@@ -1,0 +1,1588 @@
+,Module,Group,Quota,NoofBidders,LowestBid,LowestSuccBid,HighestBid,Faculty,Student Type[Acct Type]
+0,AR1326,LECTURE 1,5,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1,AR2102,DESIGN TUTORIAL 1,3,3,1,1,100,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+2,AR2223,LECTURE 1,13,11,1,1,2985,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+3,AR2223,LECTURE 1,10,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Reserved for [G] in later round
+4,AR2326,LECTURE 1,4,3,2,1,100,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+5,AR3102,DESIGN TUTORIAL 1,14,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+6,AR3323,LECTURE 1,12,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+7,AR4102,DESIGN TUTORIAL 1,25,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+8,AR4103,DESIGN TUTORIAL 1,8,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+9,AR4104,DESIGN TUTORIAL 1,13,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+10,AR5011,LECTURE 2,6,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+11,BHT4001A,LECTURE ZA,480,1,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+12,BHT4001B,LECTURE ZB,472,3,1,1,1134,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+13,BHT4001C,LECTURE ZC,475,4,1,1,1533,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+14,BN3301,LECTURE 1,28,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+15,BN4201,LECTURE 1,15,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+16,BN4202,LECTURE 1,31,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+17,BSP1004,LECTURE D1,1,7,50,3421,3421,ENGINEERING,Returning Students and New Students [P]
+18,BSP1004,LECTURE D1,4,5,200,567,2100,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+19,BSP1004,LECTURE D1,45,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+20,BSP1004,LECTURE D2,12,6,1,1,1500,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+21,BSP1004,LECTURE D2,63,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+22,BSP1005,LECTURE F1,1,2,3,200,200,ENGINEERING,Returning Students and New Students [P]
+23,BSP1005,LECTURE F1,4,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+24,BSP1005,LECTURE F2,1,1,11,1,11,ENGINEERING,Returning Students and New Students [P]
+25,BSP1005,LECTURE F2,14,1,100,1,100,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+26,BSP1005,LECTURE F2,3,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+27,BSP2001,LECTURE A,129,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+28,BSP2001,LECTURE A,15,1,10,1,10,SCHOOL OF BUSINESS,NUS Students [G]
+29,BSP2005,LECTURE E,15,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+30,BSP2005,LECTURE E,7,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+31,BSP3001A,SECTIONAL TEACHING A1,6,1,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+32,BSP3001A,SECTIONAL TEACHING A2,8,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+33,BSP3001B,SECTIONAL TEACHING A3,1,2,183,1019,1019,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+34,BSP3001B,SECTIONAL TEACHING A4,12,1,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+35,BU2180,LECTURE 1,47,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+36,BU2181,LECTURE 1,47,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+37,BU2480,LECTURE 1,55,4,2,1,100,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+38,BU2483,LECTURE 1,47,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+39,BU3182,LECTURE 1,20,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+40,BU4290,LECTURE 1,24,5,1,1,5826,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+41,BU4290,LECTURE 1,20,1,879,1,879,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+42,BU4491,LECTURE 1,17,3,1,1,2000,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+43,BU4491,LECTURE 1,20,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Reserved for [G] in later round
+44,CE2112,LECTURE 1,97,4,1,1,1,ENGINEERING,Returning Students and New Students [P]
+45,CE2112,LECTURE 1,20,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+46,CE2164,LECTURE 1,73,3,1,1,1,ENGINEERING,Returning Students and New Students [P]
+47,CE2164,LECTURE 1,20,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+48,CE2183,LECTURE 1,44,3,1,1,1,ENGINEERING,Returning Students and New Students [P]
+49,CE2183,LECTURE 1,20,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+50,CE3101,LECTURE P,117,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+51,CE3116,LECTURE 1,62,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+52,CE3116,LECTURE 1,15,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+53,CE3132,LECTURE 1,135,4,1,1,222,ENGINEERING,Returning Students and New Students [P]
+54,CE3132,LECTURE 1,15,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+55,CE3155,LECTURE 1,94,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+56,CE3155,LECTURE 1,15,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+57,CE3166,LECTURE 1,78,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+58,CE3166,LECTURE 1,15,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+59,CE4104,LECTURE P,70,1,20,1,20,ENGINEERING,Returning Students and New Students [P]
+60,CE4106,LECTURE P,5,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+61,CE4258,LECTURE 1,36,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+62,CE4258,LECTURE 1,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+63,CE5106,LECTURE 1,17,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+64,CE5108,LECTURE 1,9,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+65,CE5207,LECTURE 1,15,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+66,CE5510,LECTURE 1,21,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+67,CE5513,LECTURE 1,22,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+68,CE5610,LECTURE 1,24,1,500,1,500,ENGINEERING,Returning Students and New Students [P]
+69,CE5711,LECTURE 1,12,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+70,CE5713,LECTURE 1,4,1,100,1,100,ENGINEERING,Returning Students and New Students [P]
+71,CE5806,LECTURE 1,2,3,1655,2600,3000,ENGINEERING,Returning Students and New Students [P]
+72,CF3101,LECTURE SL1,44,26,1,1,2629,SCIENCE,Returning Students and New Students [P]
+73,CF3101,LECTURE SL1,30,0,0,0,0,SCIENCE,Reserved for [G] in later round
+74,CF4103,LECTURE SL1,7,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+75,CH1101E,LECTURE 1,98,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+76,CH1101E,LECTURE 1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+77,CH2141,LECTURE 1,87,14,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+78,CH2141,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+79,CH2228,LECTURE 1,25,5,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+80,CH2228,LECTURE 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+81,CH2243,LECTURE 1,48,9,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+82,CH2243,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+83,CH2244,LECTURE 1,58,44,1,1,3161,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+84,CH2244,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+85,CH2292A,LECTURE 1,109,21,1,1,3390,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+86,CH2292A,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+87,CH3226,LECTURE 1,19,5,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+88,CH3226,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+89,CH3242,LECTURE 1,25,4,80,1,200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+90,CH3242,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+91,CH3261,SECTIONAL TEACHING 1,28,8,50,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+92,CH3261,SECTIONAL TEACHING 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+93,CH4203,SECTIONAL TEACHING 1,37,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+94,CH4222,LECTURE 1,37,7,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+95,CH4224,SECTIONAL TEACHING 1,36,4,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+96,CH4243,SECTIONAL TEACHING 1,28,6,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+97,CH4245,SECTIONAL TEACHING 1,35,2,1,1,101,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+98,CH4261,SECTIONAL TEACHING 1,40,7,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+99,CH4281,SECTIONAL TEACHING 1,37,1,167,1,167,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+100,CH4281,SECTIONAL TEACHING 1,17,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+101,CL1101E,LECTURE 1,168,3,1,1,150,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+102,CL1101E,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+103,CL2101,LECTURE 1,57,9,1,1,2173,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+104,CL2101,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+105,CL2103,LECTURE 1,106,19,1,1,950,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+106,CL2103,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+107,CL2204,LECTURE 1,59,8,30,1,800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+108,CL2204,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+109,CL2241,LECTURE 1,73,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+110,CL3201,LECTURE 1,25,5,10,1,668,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+111,CL3201,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+112,CL3203,LECTURE 1,30,1,50,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+113,CL3203,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+114,CL3207,LECTURE 1,37,2,1,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+115,CL3207,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+116,CL3281,LECTURE 1,44,10,1,1,2606,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+117,CL3281,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+118,CM1101,LECTURE SL1,258,3,1,1,412,SCIENCE,Returning Students and New Students [P]
+119,CM1101,LECTURE SL1,50,0,0,0,0,SCIENCE,Reserved for [G] in later round
+120,CM1121,LECTURE SL1,377,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+121,CM1121,LECTURE SL1,50,0,0,0,0,SCIENCE,Reserved for [G] in later round
+122,CM1131,LECTURE SL1,363,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+123,CM1131,LECTURE SL1,30,0,0,0,0,SCIENCE,Reserved for [G] in later round
+124,CM1161,LECTURE SL1,2,5,1,250,1161,SCIENCE,Returning Students and New Students [P]
+125,CM1161,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+126,CM1502,LECTURE L,306,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+127,CM2111,LECTURE SL1,30,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+128,CM2121,LECTURE SL1,1,4,1,2500,2500,SCIENCE,Returning Students and New Students [P]
+129,CM2132,LECTURE SL1,17,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+130,CM2142,LECTURE SL1,18,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+131,CM2166,LECTURE SL1,160,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+132,CM2167,LECTURE SL1,180,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+133,CM3193,LECTURE SL1,23,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+134,CM3194,LECTURE SL1,50,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+135,CM3212,LECTURE SL1,143,1,50,1,50,SCIENCE,Returning Students and New Students [P]
+136,CM3225,LECTURE SL1,88,4,1,1,199,SCIENCE,Returning Students and New Students [P]
+137,CM3231,LECTURE SL1,41,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+138,CM3232,LECTURE SL1,55,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+139,CM3242,LECTURE SL1,51,1,100,1,100,SCIENCE,Returning Students and New Students [P]
+140,CM3261,LECTURE SL1,17,1,100,1,100,SCIENCE,Returning Students and New Students [P]
+141,CM3264,LECTURE SL1,5,2,10,1,100,SCIENCE,Returning Students and New Students [P]
+142,CM3265,LECTURE SL1,40,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+143,CM3266,LECTURE SL1,45,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+144,CM3291,LECTURE SL1,32,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+145,CM3295,LECTURE SL1,11,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+146,CM4221,LECTURE SL1,8,2,1,1,10,SCIENCE,Returning Students and New Students [P]
+147,CM4265,LECTURE SL1,23,5,1,1,500,SCIENCE,Returning Students and New Students [P]
+148,CN1111,LECTURE L,385,12,1,1,1300,ENGINEERING,Returning Students and New Students [P]
+149,CN1111,LECTURE L,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+150,CN2108,LECTURE 4B,16,3,1,1,5,ENGINEERING,Returning Students and New Students [P]
+151,CN2116,LECTURE L,53,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+152,CN2116,LECTURE L,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+153,CN2125,LECTURE L,25,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+154,CN3121,LECTURE L,41,4,1,1,100,ENGINEERING,Returning Students and New Students [P]
+155,CN3124,LECTURE L,19,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+156,CN4118,LECTURE L,106,2,1,1,50,ENGINEERING,Returning Students and New Students [P]
+157,CN4120,LECTURE L,33,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+158,CN4203,LECTURE L,16,3,1,1,2,ENGINEERING,Returning Students and New Students [P]
+159,CN4208,LECTURE L,36,2,1,1,50,ENGINEERING,Returning Students and New Students [P]
+160,CN4210,LECTURE L,22,4,1,1,1,ENGINEERING,Returning Students and New Students [P]
+161,CN4211,LECTURE L,14,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+162,CN4223,LECTURE L,1,14,107,4185,4185,ENGINEERING,Returning Students and New Students [P]
+163,CN4227,LECTURE L,7,1,1001,1,1001,ENGINEERING,Returning Students and New Students [P]
+164,CN4232,LECTURE L,43,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+165,CN4245,LECTURE L,14,2,1,1,2500,ENGINEERING,Returning Students and New Students [P]
+166,CN4247,LECTURE L,21,1,80,1,80,ENGINEERING,Returning Students and New Students [P]
+167,CS1101,LECTURE 1,2,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+168,CS1101,LECTURE 2,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+169,CS1101,LECTURE 2,8,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+170,CS1101,LECTURE 2,5,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+171,CS1101,LECTURE 4,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+172,CS1101,LECTURE 4,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+173,CS1101,LECTURE 4,3,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+174,CS1101C,LECTURE A,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+175,CS1101C,LECTURE A,7,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+176,CS1102C,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+177,CS1102C,LECTURE 1,13,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+178,CS1102S,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+179,CS1102S,LECTURE 1,14,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+180,CS1102X,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+181,CS1102X,LECTURE 1,1,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+182,CS1102X,LECTURE 1,9,1,810,1,810,SCHOOL OF COMPUTING,NUS Students [G]
+183,CS1102Y,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+184,CS1102Y,LECTURE 1,47,3,1,1,50,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+185,CS1102Y,LECTURE 1,6,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+186,CS1104,LECTURE 1,103,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+187,CS1104,LECTURE 1,15,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+188,CS1105,LECTURE 1,67,2,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+189,CS1105,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+190,CS1231,LECTURE 1,1,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+191,CS1231,LECTURE 1,60,15,1,1,1400,ENGINEERING,Returning Students and New Students [P]
+192,CS1231,LECTURE 1,97,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+193,CS1231,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+194,CS1280,LECTURE 1,180,87,1,1,3967,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+195,CS1280,LECTURE 1,20,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+196,CS1281,LECTURE 1,20,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+197,CS1281,LECTURE 1,230,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+198,CS2102,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+199,CS2102,LECTURE 1,8,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+200,CS2102,LECTURE 1,32,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+201,CS2102,LECTURE 1,52,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+202,CS2102,LECTURE 1,3,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+203,CS2102S,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+204,CS2102S,LECTURE 1,34,1,100,1,100,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+205,CS2103,LECTURE 1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+206,CS2103,LECTURE 1,58,2,1000,1,1500,ENGINEERING,Returning Students and New Students [P]
+207,CS2103,LECTURE 1,85,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+208,CS2103,LECTURE 1,13,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+209,CS2104,LECTURE 1,88,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+210,CS2104,LECTURE 1,5,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+211,CS2105,LECTURE 1,95,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+212,CS2105,LECTURE 1,8,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+213,CS2106,LECTURE 1,31,2,1,1,3000,ENGINEERING,Returning Students and New Students [P]
+214,CS2106,LECTURE 1,88,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+215,CS2106,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+216,CS2220,LECTURE 1,48,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+217,CS2250,LECTURE 1,18,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+218,CS2250,LECTURE 1,42,3,10,1,1000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+219,CS2250,LECTURE 1,8,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+220,CS2261,LECTURE 1,45,3,1,1,100,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+221,CS2281,LECTURE 1,87,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+222,CS2301,LECTURE 1,69,3,1,1,50,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+223,CS2306S,LECTURE 1,40,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+224,CS3103,LECTURE 1,153,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+225,CS3103,LECTURE 1,20,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+226,CS3211,LECTURE 1,19,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+227,CS3211,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+228,CS3214,LECTURE 1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+229,CS3214,LECTURE 1,1,4,3,2971,2971,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+230,CS3215,LECTURE 1,7,6,1,1,2116,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+231,CS3221,LECTURE 1,24,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+232,CS3221,LECTURE 1,35,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+233,CS3221,LECTURE 1,3,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+234,CS3223,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+235,CS3223,LECTURE 1,50,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+236,CS3223,LECTURE 1,20,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+237,CS3225,LECTURE 1,47,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+238,CS3230,LECTURE 1,20,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+239,CS3230,LECTURE 1,19,1,100,1,100,ENGINEERING,Returning Students and New Students [P]
+240,CS3230,LECTURE 1,55,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+241,CS3230,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+242,CS3231,LECTURE 1,24,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+243,CS3231,LECTURE 1,1,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+244,CS3240,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+245,CS3240,LECTURE 1,38,4,1,1,2844,ENGINEERING,Returning Students and New Students [P]
+246,CS3240,LECTURE 1,3,4,568,713,900,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+247,CS3240,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+248,CS3241,LECTURE 1,20,3,100,1,3000,ENGINEERING,Returning Students and New Students [P]
+249,CS3241,LECTURE 1,53,2,1,1,100,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+250,CS3241,LECTURE 1,5,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+251,CS3242,LECTURE 1,28,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+252,CS3242,LECTURE 1,3,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+253,CS3242S,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+254,CS3243,LECTURE 1,26,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+255,CS3243,LECTURE 1,88,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+256,CS3243,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+257,CS3244,LECTURE 1,53,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+258,CS3244,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+259,CS3248,LECTURE 1,153,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+260,CS3248,LECTURE 1,19,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+261,CS3253,LECTURE 1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+262,CS3254,LECTURE 1,16,5,1,1,1000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+263,CS3254,LECTURE 1,10,1,1,1,1,SCHOOL OF COMPUTING,NUS Students [G]
+264,CS3261,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+265,CS3261,LECTURE 1,91,2,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+266,CS3261,LECTURE 1,3,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+267,CS3265,LECTURE 1,50,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+268,CS3265,LECTURE 1,1,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+269,CS3266,LECTURE 1,64,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+270,CS3266,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+271,CS4214,LECTURE 1,51,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+272,CS4220,LECTURE 1,48,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+273,CS4231,LECTURE 1,33,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+274,CS4236,LECTURE 1,104,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+275,CS4241,LECTURE 1,60,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+276,CS4244,LECTURE 1,20,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+277,CS4244,LECTURE 1,64,1,10,1,10,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+278,CS4247,LECTURE 1,18,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+279,CS4247,LECTURE 1,44,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+280,CS4248,LECTURE 1,44,1,10,1,10,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+281,CS4252,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+282,CS4252,LECTURE 1,7,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+283,CS4253,LECTURE 1,27,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+284,CS4255,LECTURE 1,1,2,201,1000,1000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+285,CS4264,LECTURE 1,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+286,CS4264,LECTURE 1,9,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+287,CS4271,LECTURE 1,71,2,1,1,566,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+288,CS4274,LECTURE 1,17,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+289,CS4275,LECTURE 1,45,1,1000,1,1000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+290,CS4343,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+291,CS4343,LECTURE 1,30,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+292,CS5216,LECTURE 1,7,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+293,CS5218,LECTURE 1,9,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+294,CS5219,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+295,CS5222,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+296,CS5228,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+297,CS5232,LECTURE 1,8,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+298,CS5233,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+299,CS5234,LECTURE 1,7,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+300,CS5239,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+301,CS5243,LECTURE 1,1,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+302,CS5246,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+303,CS5270,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+304,CS5321,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+305,CS5322,LECTURE 1,8,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+306,CSD2301,LECTURE SL1,150,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+307,CZ1106,LECTURE SL1,39,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+308,CZ2105,LECTURE SL1,35,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+309,CZ2206,LECTURE SL1,45,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+310,CZ3102,LECTURE SL1,43,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+311,CZ3234,LECTURE SL1,48,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+312,CZ3252,LECTURE SL1,18,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+313,CZ4206,LECTURE SL1,44,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+314,DSC2003,LECTURE C,24,12,100,1,3000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+315,DSC2003,LECTURE C,82,2,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+316,DSC2006,LECTURE F,20,4,1,1,810,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+317,DSC3201,SECTIONAL TEACHING A1,4,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+318,DSC3201,SECTIONAL TEACHING A1,4,1,372,1,372,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+319,DSC3201,SECTIONAL TEACHING A2,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+320,DSC3201,SECTIONAL TEACHING A2,13,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+321,DSC3201,SECTIONAL TEACHING A2,6,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+322,DSC3202,SECTIONAL TEACHING B1,14,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+323,DSC3213,SECTIONAL TEACHING D1,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+324,DSC3213,SECTIONAL TEACHING D1,32,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+325,DSC3213,SECTIONAL TEACHING D2,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+326,DSC3213,SECTIONAL TEACHING D2,28,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+327,DSC3216,SECTIONAL TEACHING E1,15,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+328,DSC4211A,SECTIONAL TEACHING H1,24,1,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+329,DSC4211D,SECTIONAL TEACHING I1,17,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+330,EC1101E,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+331,EC1301,LECTURE 1,3,10,200,905,1211,SCIENCE,Returning Students and New Students [P]
+332,EC1301,LECTURE 1,4,9,50,1500,2984,ENGINEERING,Returning Students and New Students [P]
+333,EC1301,LECTURE 1,2,4,1,564,878,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+334,EC1301,LECTURE 1,18,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+335,EC1301,LECTURE 1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+336,EC1301,LECTURE 2,3,6,500,1500,2000,SCIENCE,Returning Students and New Students [P]
+337,EC1301,LECTURE 2,63,6,1,1,50,ENGINEERING,Returning Students and New Students [P]
+338,EC1301,LECTURE 2,39,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+339,EC1301,LECTURE 2,18,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+340,EC1301,LECTURE 2,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+341,EC1301,LECTURE 3,3,9,15,1200,1800,SCIENCE,Returning Students and New Students [P]
+342,EC1301,LECTURE 3,43,8,1,1,100,ENGINEERING,Returning Students and New Students [P]
+343,EC1301,LECTURE 3,18,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+344,EC1301,LECTURE 3,1,2,39,50,50,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+345,EC1301,LECTURE 3,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+346,EC1301,LECTURE 4,16,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+347,EC2101,LECTURE 1,58,74,5,246,1278,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+348,EC2101,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+349,EC2102,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+350,EC2303,LECTURE 1,11,23,200,680,1057,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+351,EC2303,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+352,EC2374,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+353,EC3101,LECTURE 1,43,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+354,EC3101,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+355,EC3102,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+356,EC3102,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+357,EC3303,LECTURE 1,22,7,1,1,30,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+358,EC3303,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+359,EC3304,LECTURE 1,1,2,555,647,647,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+360,EC3304,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+361,EC3311,LECTURE 1,16,2,5,1,5,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+362,EC3311,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+363,EC3312,LECTURE 1,1,5,511,1121,1121,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+364,EC3312,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+365,EC3332,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+366,EC3333,LECTURE 1,2,2,1913,1,2312,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+367,EC3333,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+368,EC3341,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+369,EC3351,LECTURE 1,1,5,2,1161,1161,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+370,EC3351,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+371,EC3361,LECTURE 1,2,6,638,1678,1825,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+372,EC3361,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+373,EC3371,LECTURE 1,2,7,1201,1903,2269,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+374,EC3371,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+375,EC3382,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+376,EC3383,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+377,EC3384,SEMINAR-STYLE MODULE CLASS 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+378,EC3396,SEMINAR-STYLE MODULE CLASS 1,84,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+379,EC3396,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+380,EC4101,LECTURE 1,42,20,1,1,2556,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+381,EC4101,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+382,EC4102,LECTURE 1,31,19,1,1,1800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+383,EC4102,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+384,EC4303,LECTURE 1,24,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+385,EC4303,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+386,EC4322,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+387,EC4333,LECTURE 1,4,8,51,1727,2400,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+388,EC4333,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+389,EC4353,SEMINAR-STYLE MODULE CLASS 1,59,7,89,1,250,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+390,EC4353,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+391,EC4880,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+392,EE2001,LECTURE P,153,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+393,EE2004,LECTURE ALL,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+394,EE2005,LECTURE ALL,9,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+395,EE2005,LECTURE ALL,1,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+396,EE2005,LECTURE ALL,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+397,EE2005E,LECTURE 1,195,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+398,EE2006,LECTURE ALL,6,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+399,EE2006,LECTURE ALL,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+400,EE2006E,LECTURE 1,204,3,1,1,1,ENGINEERING,Returning Students and New Students [P]
+401,EE2007E,LECTURE 1,215,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+402,EE2009,LECTURE ALL,45,2,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+403,EE2010,LECTURE ALL,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+404,EE2011E,LECTURE 1,218,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+405,EE3001,LECTURE P,140,3,1,1,500,ENGINEERING,Returning Students and New Students [P]
+406,EE3001E,LECTURE 1,134,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+407,EE3101,PACKAGED LECTURE 1,270,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+408,EE3208,PACKAGED LECTURE 1,37,4,1,1,500,ENGINEERING,Returning Students and New Students [P]
+409,EE3304,PACKAGED LECTURE 1,129,7,1,1,3000,ENGINEERING,Returning Students and New Students [P]
+410,EE3406,PACKAGED LECTURE 1,146,5,1,1,100,ENGINEERING,Returning Students and New Students [P]
+411,EE3407,PACKAGED LECTURE 1,172,3,1,1,500,ENGINEERING,Returning Students and New Students [P]
+412,EE3407E,LECTURE 1,44,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+413,EE3408,PACKAGED LECTURE 1,133,2,1,1,10,ENGINEERING,Returning Students and New Students [P]
+414,EE3501,PACKAGED LECTURE 1,33,8,1,1,3000,ENGINEERING,Returning Students and New Students [P]
+415,EE3501E,LECTURE 1,4,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+416,EE4102,PACKAGED LECTURE 1,212,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+417,EE4102E,LECTURE 1,64,2,1,1,200,ENGINEERING,Returning Students and New Students [P]
+418,EE4104,PACKAGED LECTURE 1,3,4,1,500,4520,ENGINEERING,Returning Students and New Students [P]
+419,EE4109,PACKAGED LECTURE 1,122,1,2710,1,2710,ENGINEERING,Returning Students and New Students [P]
+420,EE4110,PACKAGED LECTURE 1,56,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+421,EE4112E,LECTURE 1,14,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+422,EE4210,PACKAGED LECTURE 1,55,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+423,EE4212,PACKAGED LECTURE 1,116,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+424,EE4213,PACKAGED LECTURE 1,128,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+425,EE4214E,LECTURE 1,16,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+426,EE4217,PACKAGED LECTURE 1,38,2,1,1,10,ENGINEERING,Returning Students and New Students [P]
+427,EE4302,PACKAGED LECTURE 1,81,3,1,1,1000,ENGINEERING,Returning Students and New Students [P]
+428,EE4306,PACKAGED LECTURE 1,6,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+429,EE4307,PACKAGED LECTURE 1,34,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+430,EE4401,PACKAGED LECTURE 1,10,6,1,1,1000,ENGINEERING,Returning Students and New Students [P]
+431,EE4408,PACKAGED LECTURE 1,48,4,1,1,1001,ENGINEERING,Returning Students and New Students [P]
+432,EE4408E,LECTURE 1,69,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+433,EE4411,PACKAGED LECTURE 1,40,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+434,EE4413,PACKAGED LECTURE 1,1,15,747,6000,6000,ENGINEERING,Returning Students and New Students [P]
+435,EE4414,PACKAGED LECTURE 1,87,2,2000,1,4552,ENGINEERING,Returning Students and New Students [P]
+436,EE4415,PACKAGED LECTURE 1,19,1,1000,1,1000,ENGINEERING,Returning Students and New Students [P]
+437,EE4415E,LECTURE 1,3,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+438,EE4501,PACKAGED LECTURE 1,49,1,2,1,2,ENGINEERING,Returning Students and New Students [P]
+439,EE4509,PACKAGED LECTURE 1,63,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+440,EE4602,LECTURE 1,115,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+441,EE4603,PACKAGED LECTURE 1,147,1,1000,1,1000,ENGINEERING,Returning Students and New Students [P]
+442,EG1108,LECTURE A,38,1,25,1,25,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+443,EG1108,LECTURE A,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+444,EG1413,SECTIONAL TEACHING E01,1,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+445,EG1413,SECTIONAL TEACHING E02,2,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+446,EG1413,SECTIONAL TEACHING E03,2,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+447,EG1413,SECTIONAL TEACHING E12,2,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+448,EG1413,SECTIONAL TEACHING E13,4,3,1,1,13,ENGINEERING,Returning Students and New Students [P]
+449,EG1413,SECTIONAL TEACHING E14,4,1,100,1,100,ENGINEERING,Returning Students and New Students [P]
+450,EG1413,SECTIONAL TEACHING E15,4,1,2,1,2,ENGINEERING,Returning Students and New Students [P]
+451,EG1413,SECTIONAL TEACHING E16,4,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+452,EG1413,SECTIONAL TEACHING E39,10,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+453,EG1413,SECTIONAL TEACHING E40,18,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+454,EG1413,SECTIONAL TEACHING E41,18,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+455,EG1413,SECTIONAL TEACHING E42,13,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+456,EG1413,SECTIONAL TEACHING E43,16,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+457,EG1415,LECTURE 1,8,7,200,1,1500,ENGINEERING,Returning Students and New Students [P]
+458,EG1415,LECTURE 2,187,4,1,1,1000,ENGINEERING,Returning Students and New Students [P]
+459,EL1101E,LECTURE 1,86,13,1,1,521,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+460,EL1101E,LECTURE 1,160,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+461,EL2102,LECTURE 1,33,44,5,400,2200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+462,EL2102,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+463,EL2111,LECTURE 1,62,43,1,1,2195,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+464,EL2111,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+465,EL3201,SEMINAR-STYLE MODULE CLASS 1,15,11,1,1,1101,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+466,EL3201,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+467,EL3207,SEMINAR-STYLE MODULE CLASS 1,34,1,10,1,10,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+468,EL3207,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+469,EL3252,SEMINAR-STYLE MODULE CLASS 1,1,2,500,650,650,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+470,EL3252,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+471,EL3254,SEMINAR-STYLE MODULE CLASS 1,21,11,100,1,2433,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+472,EL3254,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+473,EL3880A,SEMINAR-STYLE MODULE CLASS 1,46,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+474,EL3880A,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+475,EL3880B,SEMINAR-STYLE MODULE CLASS 1,18,10,2,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+476,EL3880B,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+477,EL4204,SEMINAR-STYLE MODULE CLASS 1,16,12,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+478,EL4221,SEMINAR-STYLE MODULE CLASS 1,18,5,1,1,400,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+479,EL4253,SEMINAR-STYLE MODULE CLASS 1,27,7,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+480,EL4256,SEMINAR-STYLE MODULE CLASS 1,22,23,50,200,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+481,EN1101E,LECTURE 1,15,2,10,1,10,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+482,EN1101E,LECTURE 1,35,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+483,EN2101E,LECTURE 1,46,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+484,EN2101E,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+485,EN2111,LECTURE 1,24,30,1,350,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+486,EN2111,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+487,EN2113,LECTURE 1,62,37,1,1,1101,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+488,EN2113,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+489,EN3221,LECTURE 1,15,10,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+490,EN3221,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+491,EN3226,SEMINAR-STYLE MODULE CLASS 1,10,6,30,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+492,EN3226,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+493,EN3226,SEMINAR-STYLE MODULE CLASS 2,4,6,68,615,1533,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+494,EN3226,SEMINAR-STYLE MODULE CLASS 2,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+495,EN3241,SEMINAR-STYLE MODULE CLASS 1,2,5,120,2670,2690,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+496,EN3241,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+497,EN3242,LECTURE 1,10,4,1,1,200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+498,EN3242,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+499,EN3248,SEMINAR-STYLE MODULE CLASS 1,5,6,500,700,1907,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+500,EN3248,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+501,EN3261,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+502,EN3263,LECTURE 1,2,5,250,1000,1536,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+503,EN3263,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+504,EN3268,LECTURE 1,3,4,501,600,1275,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+505,EN3268,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+506,EN4223,SEMINAR-STYLE MODULE CLASS 1,14,12,1,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+507,EN4224,SEMINAR-STYLE MODULE CLASS 1,20,11,1,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+508,EN4242,SEMINAR-STYLE MODULE CLASS 1,25,8,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+509,EN4261,SEMINAR-STYLE MODULE CLASS 1,8,5,10,1,2500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+510,ES2002,SECTIONAL TEACHING G1,2,1,201,1,201,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+511,ES2002,SECTIONAL TEACHING G10,4,4,20,1,950,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+512,ES2002,SECTIONAL TEACHING G12,7,7,200,1,925,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+513,ES2002,SECTIONAL TEACHING G13,2,1,712,1,712,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+514,ES2002,SECTIONAL TEACHING G14,10,9,1,1,1300,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+515,ES2002,SECTIONAL TEACHING G2,16,1,551,1,551,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+516,ES2002,SECTIONAL TEACHING G3,5,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+517,ES2002,SECTIONAL TEACHING G4,12,1,1125,1,1125,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+518,ES2002,SECTIONAL TEACHING G5,17,1,300,1,300,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+519,ES2002,SECTIONAL TEACHING G6,3,2,999,1,1636,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+520,ES2007S,SECTIONAL TEACHING 1,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+521,ES2007S,SECTIONAL TEACHING 2,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+522,ES2007S,SECTIONAL TEACHING 3,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+523,ES2007S,SECTIONAL TEACHING 4,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+524,ES2007S,SECTIONAL TEACHING 5,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+525,ES2007S,SECTIONAL TEACHING 6,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+526,ES2007S,SECTIONAL TEACHING 7,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+527,ES2007S,SECTIONAL TEACHING 8,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+528,ES2007S,SECTIONAL TEACHING 9,21,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+529,ESE2001,LECTURE 1,16,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+530,ESE2401,LECTURE 1,61,4,1,1,1,ENGINEERING,Returning Students and New Students [P]
+531,ESE4301,LECTURE 1,16,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+532,ESE4403,LECTURE 1,45,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+533,ESE5205,LECTURE 1,7,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+534,ESE5405,LECTURE 1,11,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+535,ESE5602,LECTURE 1,8,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+536,EU1101E,LECTURE 1,52,4,2,1,950,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+537,EU1101E,LECTURE 1,25,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+538,EU2219,LECTURE 1,7,4,51,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+539,EU2221,LECTURE 1,14,4,100,1,858,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+540,EU3217,SEMINAR-STYLE MODULE CLASS 1,2,1,1000,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+541,EU3217,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+542,EU3224,LECTURE 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+543,EU3228,LECTURE 1,4,2,400,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+544,EV4205,LECTURE L,12,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+545,EV4504,LECTURE 1,21,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+546,FNA1002,LECTURE B1,12,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+547,FNA1002X,LECTURE B2,17,3,1,1,100,SCIENCE,Returning Students and New Students [P]
+548,FNA1002X,LECTURE B2,3,24,1,5270,6090,ENGINEERING,Returning Students and New Students [P]
+549,FNA1002X,LECTURE B2,43,15,1,1,2566,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+550,FNA1002X,LECTURE B2,14,2,1,1,2,SCHOOL OF BUSINESS,NUS Students [G]
+551,FNA1002X,LECTURE B3,18,15,1,1,2852,SCIENCE,Returning Students and New Students [P]
+552,FNA1002X,LECTURE B3,2,15,1,4828,5000,ENGINEERING,Returning Students and New Students [P]
+553,FNA1002X,LECTURE B3,66,48,1,1,2500,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+554,FNA1002X,LECTURE B3,34,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+555,FNA2002,LECTURE B,12,6,1,1,4045,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+556,FNA2002,LECTURE B,116,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+557,FNA2004,LECTURE D,7,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+558,FNA2004,LECTURE D,24,21,1,1,3900,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+559,FNA2004,LECTURE D,18,1,301,1,301,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+560,FNA3101,SECTIONAL TEACHING B1,3,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+561,FNA3101,SECTIONAL TEACHING B2,1,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+562,FNA3101,SECTIONAL TEACHING B3,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+563,FNA3102A,SECTIONAL TEACHING C2,4,3,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+564,FNA3102B,SECTIONAL TEACHING C4,1,2,1000,1085,1085,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+565,FNA3103,SECTIONAL TEACHING D1,7,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+566,FNA3103,SECTIONAL TEACHING D2,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+567,FNA3111,SECTIONAL TEACHING E,24,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+568,FNA3112,SECTIONAL TEACHING F,18,1,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+569,FNA3113,SECTIONAL TEACHING G1,2,2,200,1,999,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+570,FNA3115,SECTIONAL TEACHING H1,4,1,1914,1,1914,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+571,FNA3117,SECTIONAL TEACHING I2,6,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+572,FNA3118,SECTIONAL TEACHING J1,1,2,1793,1900,1900,SCIENCE,Returning Students and New Students [P]
+573,FNA3118,SECTIONAL TEACHING J2,20,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+574,FNA3121,SECTIONAL TEACHING A,42,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+575,FNA3126,SECTIONAL TEACHING B,25,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+576,FNA3127,SECTIONAL TEACHING C,30,2,1,1,102,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+577,FNA4111,SECTIONAL TEACHING M1,1,3,100,2596,2596,SCIENCE,Returning Students and New Students [P]
+578,FNA4112A,SECTIONAL TEACHING N1,4,1,500,1,500,SCIENCE,Returning Students and New Students [P]
+579,FNA4112A,SECTIONAL TEACHING N1,21,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+580,FNA4112D,SECTIONAL TEACHING O1,2,1,1800,1,1800,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+581,FST2106,LECTURE SL1,4,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+582,FST2201,LECTURE SL1,95,86,1,1,2670,SCIENCE,Returning Students and New Students [P]
+583,FST2201,LECTURE SL1,8,0,0,0,0,SCIENCE,Reserved for [G] in later round
+584,FST4102,LECTURE SL1,1,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+585,FST4202,LECTURE SL1,3,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+586,FST5201,LECTURE SL1,10,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+587,GE1101E,LECTURE 1,143,15,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+588,GE1101E,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+589,GE2202,LECTURE 1,79,14,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+590,GE2202,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+591,GE2218,LECTURE 1,43,57,200,981,3665,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+592,GE2218,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+593,GE2220,LECTURE 1,74,22,1,1,2007,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+594,GE2220,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+595,GE2224,LECTURE 1,92,45,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+596,GE2224,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+597,GE2225,LECTURE 1,52,5,1,1,576,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+598,GE2225,LECTURE 1,8,0,0,0,0,ARTS & SOCIAL SCIENCES,NUS Students [G]
+599,GE3206,LECTURE 1,35,8,17,1,2539,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+600,GE3206,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+601,GE3223,LECTURE 1,43,3,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+602,GE3223,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+603,GE3226,LECTURE 1,58,3,1,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+604,GE3226,LECTURE 1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+605,GE3238,LECTURE 1,43,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+606,GE3238,LECTURE 1,18,1,10,1,10,ARTS & SOCIAL SCIENCES,NUS Students [G]
+607,GE4202,SEMINAR-STYLE MODULE CLASS 1,34,1,100,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+608,GE4211,SEMINAR-STYLE MODULE CLASS 1,36,7,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+609,GE4213,SEMINAR-STYLE MODULE CLASS 1,32,2,56,1,400,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+610,GE4219,SEMINAR-STYLE MODULE CLASS 1,34,8,1,1,1661,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+611,GEK1022,LECTURE 1,53,20,1,1,2094,ARTS & SOCIAL SCIENCES,NUS Students [G]
+612,GEK1029,SECTIONAL TEACHING C1,4,7,100,445,700,SCHOOL OF BUSINESS,NUS Students [G]
+613,GEK1029,SECTIONAL TEACHING C2,1,3,1,600,600,SCHOOL OF BUSINESS,NUS Students [G]
+614,GEK1042,SECTIONAL TEACHING F2,1,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+615,GEK1506,LECTURE SL1,60,61,1,1,1269,SCIENCE,NUS Students [G]
+616,GEK1509,LECTURE SL1,285,39,1,1,1365,SCIENCE,NUS Students [G]
+617,GEK1514,PACKAGED LECTURE 1,20,9,1,1,507,ENGINEERING,NUS Students [G]
+618,GEK1527,LECTURE SL1,69,43,1,1,1175,SCIENCE,NUS Students [G]
+619,GEK1527,LECTURE SL2,110,39,1,1,1200,SCIENCE,NUS Students [G]
+620,GEK1530,LECTURE SL1,11,17,200,555,1034,SCIENCE,NUS Students [G]
+621,GEK1532,LECTURE SL1,104,45,1,1,1659,SCIENCE,NUS Students [G]
+622,GEK2003,LECTURE 1,3,5,492,554,840,ARTS & SOCIAL SCIENCES,NUS Students [G]
+623,GEM1008,SECTIONAL TEACHING 2,6,3,1,1,552,NON-FACULTY-BASED DEPARTMENTS,NUS Students [G]
+624,GEM1501,LECTURE 1,11,8,1,1,210,SCHOOL OF COMPUTING,NUS Students [G]
+625,GEM2003,LECTURE 1,35,19,1,1,992,ARTS & SOCIAL SCIENCES,NUS Students [G]
+626,GEM2007,LECTURE 1,10,19,100,601,1200,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+627,GEM2901,LECTURE SL1,201,17,1,1,1200,SCIENCE,NUS Students [G]
+628,HR2002,SECTIONAL TEACHING E601,6,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+629,HR2002,SECTIONAL TEACHING E602,6,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+630,HR2002,SECTIONAL TEACHING E603,10,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+631,HR2002,SECTIONAL TEACHING E604,1,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+632,HR2002,SECTIONAL TEACHING E701,2,3,1,1000,3000,ENGINEERING,Returning Students and New Students [P]
+633,HR2002,SECTIONAL TEACHING E704,4,3,1,1,3376,ENGINEERING,Returning Students and New Students [P]
+634,HR2002,SECTIONAL TEACHING E801,19,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+635,HR2002,SECTIONAL TEACHING E802,16,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+636,HR2002,SECTIONAL TEACHING E803,9,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+637,HR2002,SECTIONAL TEACHING E804,35,6,136,1,2215,ENGINEERING,Returning Students and New Students [P]
+638,HR2002,SECTIONAL TEACHING E805,15,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+639,HY1101E,LECTURE 1,70,6,1,1,596,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+640,HY1101E,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+641,HY2207,LECTURE 1,65,31,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+642,HY2207,LECTURE 1,25,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+643,HY2229,LECTURE 1,44,40,1,1,2133,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+644,HY2229,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+645,HY2241,LECTURE 1,89,17,1,1,1996,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+646,HY2241,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+647,HY2245,LECTURE 1,157,17,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+648,HY2245,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+649,HY2247,LECTURE 1,292,43,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+650,HY2247,LECTURE 1,70,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+651,HY2251,LECTURE 1,113,15,1,1,2198,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+652,HY2251,LECTURE 1,100,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+653,HY3206,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+654,HY3209,LECTURE 1,17,6,1,1,1416,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+655,HY3209,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+656,HY3225,LECTURE 1,12,9,1,1,2500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+657,HY3225,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+658,HY3236,SECTIONAL TEACHING 1,3,2,5,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+659,HY3236,SECTIONAL TEACHING 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+660,HY3243,LECTURE 1,22,6,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+661,HY3243,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+662,HY3244,LECTURE 1,27,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+663,HY3244,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+664,HY3245,LECTURE 1,26,3,1,1,819,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+665,HY3245,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+666,HY4207,LECTURE 1,11,5,200,1,3200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+667,ID1104,DESIGN TUTORIAL 1,3,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+668,ID1121,LECTURE 1,3,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+669,ID1223,LECTURE 1,4,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+670,ID2104,DESIGN TUTORIAL 1,1,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+671,ID2121,LECTURE 1,1,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+672,ID2322,LECTURE 1,1,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+673,ID4104,DESIGN TUTORIAL 1,6,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+674,IE2100,LECTURE 1,11,1,100,1,100,ENGINEERING,Returning Students and New Students [P]
+675,IE2130,LECTURE 1,44,6,1,1,5000,ENGINEERING,Returning Students and New Students [P]
+676,IE2130,LECTURE 1,20,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+677,IE2140,LECTURE 1,20,15,1,1,5000,ENGINEERING,Returning Students and New Students [P]
+678,IE2140,LECTURE 1,10,0,0,0,0,ENGINEERING,Reserved for [G] in later round
+679,IE2150,LECTURE 1,11,1,100,1,100,ENGINEERING,Returning Students and New Students [P]
+680,IE3100,LECTURE 1,59,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+681,IE4100R,LECTURE 1,50,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+682,IE4220,LECTURE 1,20,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+683,IE4230,LECTURE 1,31,1,2,1,2,ENGINEERING,Returning Students and New Students [P]
+684,IE5108,LECTURE 1,9,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+685,IT1001,LECTURE 1,2,5,500,1212,1350,SCIENCE,Returning Students and New Students [P]
+686,IT1001,LECTURE 1,124,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+687,IT1002,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+688,IT1002,LECTURE 1,148,10,1,1,1070,SCIENCE,Returning Students and New Students [P]
+689,IT1002,LECTURE 1,25,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+690,IT1003,LECTURE 1,245,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+691,IT1004,LECTURE 1,245,0,0,0,0,SCHOOL OF COMPUTING,Reserved for [G] in later round
+692,IT1801,LECTURE 1,31,1,3,1,3,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+693,IT2001,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+694,IT2001,LECTURE 1,60,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+695,IT2002,LECTURE 1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+696,IT2002,LECTURE 1,46,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+697,IT2002,LECTURE 1,10,0,0,0,0,SCHOOL OF COMPUTING,NUS Students [G]
+698,JS1101E,LECTURE 1,31,24,1,1,1088,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+699,JS1101E,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+700,JS2101,SEMINAR-STYLE MODULE CLASS 1,7,7,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+701,JS2203,SEMINAR-STYLE MODULE CLASS 1,17,4,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+702,JS2203,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+703,JS2213,LECTURE 1,107,62,1,1,2510,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+704,JS2213,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+705,JS2222,LECTURE 1,117,21,1,1,1990,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+706,JS2222,LECTURE 1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+707,JS2226,LECTURE 1,66,36,1,1,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+708,JS2226,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+709,JS3211,LECTURE 1,31,4,100,1,1365,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+710,JS3211,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+711,JS3213,LECTURE 1,25,11,1,1,1200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+712,JS3213,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+713,JS3222,SEMINAR-STYLE MODULE CLASS 1,41,3,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+714,JS3222,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+715,JS4214,SEMINAR-STYLE MODULE CLASS 1,8,4,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+716,JS4217,SEMINAR-STYLE MODULE CLASS 1,10,4,1,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+717,JS4227,SEMINAR-STYLE MODULE CLASS 1,10,1,60,1,60,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+718,JS4229,SEMINAR-STYLE MODULE CLASS 1,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+719,JS4229,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+720,LAB1201,LECTURE 1,129,40,1,1,1688,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+721,LAB1201,LECTURE 1,70,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+722,LAB2201,LECTURE 1,40,19,1,1,1329,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+723,LAB2201,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+724,LAB3201,LECTURE 1,18,2,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+725,LAB3201,LECTURE 1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+726,LAB3202,LECTURE 1,12,1,179,1,179,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+727,LAB3202,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+728,LAB4201,LECTURE 1,10,2,15,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+729,LAB4201,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+730,LAB4202,LECTURE 1,8,3,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+731,LAB4202,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+732,LAC1201,LECTURE 1,22,4,1,1,360,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+733,LAC1201,LECTURE 1,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+734,LAC1201,LECTURE 2,22,12,1,1,780,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+735,LAC1201,LECTURE 2,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+736,LAC1201,LECTURE 3,22,9,2,1,150,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+737,LAC1201,LECTURE 3,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+738,LAC1201,LECTURE 4,22,3,1,1,619,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+739,LAC1201,LECTURE 4,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+740,LAC1201,LECTURE 5,22,10,1,1,1472,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+741,LAC1201,LECTURE 5,11,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+742,LAC2201,LECTURE 1,25,12,1,1,603,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+743,LAC2201,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+744,LAC2201,LECTURE 2,25,4,10,1,161,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+745,LAC2201,LECTURE 2,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+746,LAC2202,LECTURE 1,25,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+747,LAC2202,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+748,LAC3201,LECTURE 1,22,4,150,1,200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+749,LAC3201,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+750,LAC3202,LECTURE 1,13,2,1,1,10,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+751,LAC3202,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+752,LAC3203,LECTURE 1,30,21,1,1,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+753,LAC3203,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+754,LAF1201,LECTURE 1,13,20,100,500,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+755,LAF1201,LECTURE 1,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+756,LAF1201,LECTURE 2,11,14,329,700,2446,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+757,LAF1201,LECTURE 2,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+758,LAF1201,LECTURE 3,13,19,293,700,3331,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+759,LAF1201,LECTURE 3,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+760,LAF1201,LECTURE 4,13,21,8,500,2269,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+761,LAF1201,LECTURE 4,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+762,LAF1201,LECTURE 5,12,17,306,500,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+763,LAF1201,LECTURE 5,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+764,LAF1201,LECTURE 6,12,16,176,410,2913,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+765,LAF1201,LECTURE 6,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+766,LAF1201,LECTURE 7,9,12,571,1066,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+767,LAF1201,LECTURE 7,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+768,LAF2201,LECTURE 1,8,9,150,500,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+769,LAF2201,LECTURE 1,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+770,LAF2201,LECTURE 2,8,7,4,1,1309,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+771,LAF2201,LECTURE 2,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+772,LAF2201,LECTURE 3,7,9,181,200,2167,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+773,LAF2201,LECTURE 3,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+774,LAF2201,LECTURE 4,6,5,2,1,1856,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+775,LAF2201,LECTURE 4,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+776,LAF2201,LECTURE 5,7,9,115,350,2043,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+777,LAF2201,LECTURE 5,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+778,LAF2201,LECTURE 6,12,8,200,1,1279,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+779,LAF2201,LECTURE 6,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+780,LAF3201,LECTURE 1,19,17,1,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+781,LAF3201,LECTURE 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+782,LAF3202,LECTURE 1,20,9,1,1,1348,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+783,LAF3202,LECTURE 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+784,LAF4202,LECTURE 1,10,3,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+785,LAF4202,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+786,LAG1201,LECTURE 1,21,15,1,1,700,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+787,LAG1201,LECTURE 1,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+788,LAG1201,LECTURE 2,19,14,50,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+789,LAG1201,LECTURE 2,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+790,LAG1201,LECTURE 3,17,2,10,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+791,LAG1201,LECTURE 3,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+792,LAG1201,LECTURE 4,16,6,1,1,374,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+793,LAG1201,LECTURE 4,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+794,LAG1201,LECTURE 5,17,1,50,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+795,LAG1201,LECTURE 5,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+796,LAG2201,LECTURE 1,8,9,82,100,1198,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+797,LAG2201,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+798,LAG2201,LECTURE 2,7,7,151,1,800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+799,LAG2201,LECTURE 2,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+800,LAG2201,LECTURE 3,8,2,2,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+801,LAG2201,LECTURE 3,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+802,LAG2201,LECTURE 4,10,2,10,1,31,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+803,LAG2201,LECTURE 4,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+804,LAG2201,LECTURE 5,7,7,436,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+805,LAG2201,LECTURE 5,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+806,LAG2201,LECTURE 6,10,1,612,1,612,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+807,LAG2201,LECTURE 6,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+808,LAG2201,LECTURE 7,13,5,1,1,2208,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+809,LAG2201,LECTURE 7,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+810,LAG3202,LECTURE 1,18,6,1,1,1685,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+811,LAG3202,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+812,LAG4202,LECTURE 1,15,5,1,1,1068,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+813,LAG4202,LECTURE 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+814,LAJ1201,LECTURE 1,76,71,1,1,2269,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+815,LAJ1201,LECTURE 1,70,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+816,LAJ1201,LECTURE 2,76,30,1,1,3164,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+817,LAJ1201,LECTURE 2,70,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+818,LAJ2201,LECTURE 1,48,55,20,138,3030,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+819,LAJ2201,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+820,LAJ2201,LECTURE 2,48,21,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+821,LAJ2201,LECTURE 2,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+822,LAJ2202,LECTURE 1,46,31,1,1,2342,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+823,LAJ2202,LECTURE 1,40,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+824,LAJ2203,LECTURE 1,31,18,1,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+825,LAJ2203,LECTURE 1,35,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+826,LAJ3201,LECTURE 1,24,6,30,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+827,LAJ3201,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+828,LAJ3202,LECTURE 1,13,3,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+829,LAJ3202,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+830,LAL1201,LECTURE 1,20,3,101,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+831,LAL1201,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+832,LAL2201,LECTURE 1,7,1,100,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+833,LAL2201,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+834,LAM1201,LECTURE 1,50,64,1,311,2389,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+835,LAM1201,LECTURE 1,45,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+836,LAM2201,LECTURE 1,25,28,7,100,2247,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+837,LAM2201,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+838,LAT1201,LECTURE 1,104,35,1,1,2693,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+839,LAT1201,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+840,LAT2201,LECTURE 1,40,21,1,1,2001,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+841,LAT2201,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+842,LAT3201,LECTURE 1,13,9,2,1,1144,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+843,LAT3201,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+844,LAT3202,LECTURE 1,6,5,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+845,LAT3202,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+846,LAT4201,LECTURE 1,4,4,100,1,2586,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+847,LAT4201,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+848,LAT4202,LECTURE 1,4,1,4299,1,4299,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+849,LAT4202,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+850,LAV1201,LECTURE 1,18,5,1,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+851,LAV1201,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+852,LAV2201,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+853,LAV2201,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+854,LAV3201,LECTURE 1,2,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+855,LAV3201,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+856,LAV3202,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+857,LAV3202,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+858,LL4048,SEMINAR-STYLE MODULE CLASS 1,50,0,0,0,0,LAW,Reserved for [G] in later round
+859,LL4105,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,Returning Students and New Students [P]
+860,LL4119,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,Returning Students and New Students [P]
+861,LSM1202,LECTURE SL1,2,6,1,1212,2000,SCIENCE,Returning Students and New Students [P]
+862,LSM1301,LECTURE SL1,3,4,5,99,300,SCIENCE,Returning Students and New Students [P]
+863,LSM1301,LECTURE SL1,290,0,0,0,0,SCIENCE,Reserved for [G] in later round
+864,LSM1301,LECTURE SL2,26,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+865,LSM1301,LECTURE SL2,330,0,0,0,0,SCIENCE,Reserved for [G] in later round
+866,LSM1302,LECTURE SL1,11,5,1,1,500,SCIENCE,Returning Students and New Students [P]
+867,LSM1302,LECTURE SL1,15,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+868,LSM1302,LECTURE SL2,1,2,1,137,137,SCIENCE,Returning Students and New Students [P]
+869,LSM1302,LECTURE SL2,32,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+870,LSM1303,LECTURE SL1,31,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+871,LSM1303,LECTURE SL1,150,0,0,0,0,SCIENCE,Reserved for [G] in later round
+872,LSM1304,LECTURE SL1,17,2,100,1,1000,SCIENCE,Returning Students and New Students [P]
+873,LSM1304,LECTURE SL1,33,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+874,LSM1304,LECTURE SL1,70,0,0,0,0,SCIENCE,Reserved for [G] in later round
+875,LSM2202,LECTURE SL1,9,3,11,1,20,SCIENCE,Returning Students and New Students [P]
+876,LSM3211,LECTURE SL1,126,26,1,1,1372,SCIENCE,Returning Students and New Students [P]
+877,LSM3212,LECTURE SL1,80,26,1,1,2000,SCIENCE,Returning Students and New Students [P]
+878,LSM3213,LECTURE SL1,91,4,2,1,8,SCIENCE,Returning Students and New Students [P]
+879,LSM3214,LECTURE SL1,59,2,1,1,473,SCIENCE,Returning Students and New Students [P]
+880,LSM3221,LECTURE SL1,91,1,2,1,2,SCIENCE,Returning Students and New Students [P]
+881,LSM3223,LECTURE SL1,102,7,1,1,500,SCIENCE,Returning Students and New Students [P]
+882,LSM3224,LECTURE SL1,208,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+883,LSM3225,LECTURE SL1,64,2,2,1,100,SCIENCE,Returning Students and New Students [P]
+884,LSM3231,LECTURE SL1,65,8,10,1,1957,SCIENCE,Returning Students and New Students [P]
+885,LSM3232,LECTURE SL1,90,16,1,1,500,SCIENCE,Returning Students and New Students [P]
+886,LSM3241,LECTURE SL1,51,3,1,1,10,SCIENCE,Returning Students and New Students [P]
+887,LSM3242,LECTURE SL1,68,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+888,LSM3243,LECTURE SL1,61,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+889,LSM3244,LECTURE SL1,97,9,1,1,500,SCIENCE,Returning Students and New Students [P]
+890,LSM3251,LECTURE SL1,2,9,500,3113,3300,SCIENCE,Returning Students and New Students [P]
+891,LSM3252,LECTURE SL1,3,4,500,1500,3134,SCIENCE,Returning Students and New Students [P]
+892,LSM3402B,LECTURE SL1,5,2,1,1,500,ENGINEERING,Returning Students and New Students [P]
+893,LSM4213,LECTURE SL1,68,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+894,LSM4222,LECTURE SL1,6,9,9,500,1501,SCIENCE,Returning Students and New Students [P]
+895,LSM4223,LECTURE SL1,14,19,9,891,3724,SCIENCE,Returning Students and New Students [P]
+896,LSM4224,LECTURE SL1,3,11,200,3410,3837,SCIENCE,Returning Students and New Students [P]
+897,LSM4231,LECTURE SL1,71,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+898,LSM4233,LECTURE SL1,31,15,1,1,2371,SCIENCE,Returning Students and New Students [P]
+899,LSM4241,LECTURE SL1,33,16,1,1,2000,SCIENCE,Returning Students and New Students [P]
+900,LSM4243,LECTURE SL1,18,27,200,1568,4000,SCIENCE,Returning Students and New Students [P]
+901,LSM4253,LECTURE SL1,56,5,1,1,1563,SCIENCE,Returning Students and New Students [P]
+902,LSM4261,LECTURE SL1,41,13,1,1,1500,SCIENCE,Returning Students and New Students [P]
+903,LSM4262,LECTURE SL1,17,7,1,1,3520,SCIENCE,Returning Students and New Students [P]
+904,MA1101R,LECTURE SL1,18,2,1,1,5,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+905,MA1101R,LECTURE SL1,24,18,1,1,1604,SCIENCE,Returning Students and New Students [P]
+906,MA1101R,LECTURE SL1,143,4,1,1,50,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+907,MA1102R,LECTURE SL1,127,34,1,1,1334,SCIENCE,Returning Students and New Students [P]
+908,MA1104,LECTURE SL1,64,33,1,1,1144,SCIENCE,Returning Students and New Students [P]
+909,MA1301,LECTURE SL1,10,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+910,MA1301,LECTURE SL1,10,5,500,1,1114,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+911,MA1301,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+912,MA1311,LECTURE SL1,74,5,71,1,500,SCIENCE,Returning Students and New Students [P]
+913,MA1311,LECTURE SL1,25,0,0,0,0,SCIENCE,Reserved for [G] in later round
+914,MA1505,LECTURE SL1,26,14,1,1,1154,SCIENCE,Returning Students and New Students [P]
+915,MA1505,LECTURE SL1,36,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+916,MA1505,LECTURE SL1,3,15,1,1000,1293,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+917,MA1506,LECTURE SL1,22,4,200,1,2007,SCIENCE,Returning Students and New Students [P]
+918,MA1506,LECTURE SL1,50,1,1,1,1,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+919,MA2101,LECTURE SL1,19,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+920,MA2101,LECTURE SL1,62,18,1,1,1100,SCIENCE,Returning Students and New Students [P]
+921,MA2108,LECTURE SL1,24,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+922,MA2202,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+923,MA2202,LECTURE SL1,7,2,1,1,11,SCIENCE,Returning Students and New Students [P]
+924,MA2210,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+925,MA2210,LECTURE SL1,24,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+926,MA2214,LECTURE SL1,28,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+927,MA2214,LECTURE SL1,57,14,1,1,1000,SCIENCE,Returning Students and New Students [P]
+928,MA2215,LECTURE SL1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+929,MA2215,LECTURE SL1,75,13,1,1,555,SCIENCE,Returning Students and New Students [P]
+930,MA2216,LECTURE SL1,19,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+931,MA2216,LECTURE SL1,18,6,1,1,1100,SCIENCE,Returning Students and New Students [P]
+932,MA3110,LECTURE SL1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+933,MA3110,LECTURE SL1,62,4,50,1,1343,SCIENCE,Returning Students and New Students [P]
+934,MA3111,LECTURE SL1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+935,MA3111,LECTURE SL1,61,2,1,1,1000,SCIENCE,Returning Students and New Students [P]
+936,MA3201,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+937,MA3201,LECTURE SL1,31,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+938,MA3215,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+939,MA3215,LECTURE SL1,5,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+940,MA3218,LECTURE SL1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+941,MA3218,LECTURE SL1,10,3,1,1,1500,SCIENCE,Returning Students and New Students [P]
+942,MA3227,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+943,MA3227,LECTURE SL1,35,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+944,MA3236,LECTURE SL1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+945,MA3236,LECTURE SL1,22,2,1500,1,2641,SCIENCE,Returning Students and New Students [P]
+946,MA3245,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+947,MA3245,LECTURE SL1,144,23,1,1,2161,SCIENCE,Returning Students and New Students [P]
+948,MA3259,LECTURE SL1,3,4,1998,2001,3002,SCIENCE,Returning Students and New Students [P]
+949,MA3264,LECTURE SL1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+950,MA3264,LECTURE SL1,54,8,1,1,2000,SCIENCE,Returning Students and New Students [P]
+951,MA3501,LECTURE 1,56,2,1,1,5,ENGINEERING,Returning Students and New Students [P]
+952,MA4207,LECTURE SL1,38,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+953,MA4211,LECTURE SL1,37,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+954,MA4221,LECTURE SL1,20,2,1,1,67,SCIENCE,Returning Students and New Students [P]
+955,MA4229,LECTURE SL1,43,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+956,MA4235,LECTURE SL1,12,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+957,MA4251,LECTURE SL1,4,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+958,MA4254,LECTURE SL1,27,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+959,MA4263,LECTURE SL1,43,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+960,MA4264,LECTURE SL1,16,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+961,MA4265,LECTURE SL1,8,6,1,1,900,SCIENCE,Returning Students and New Students [P]
+962,MA5204,LECTURE SL1,3,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+963,MA5206,LECTURE SL1,3,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+964,MA5213,LECTURE SL1,4,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+965,MA5220,LECTURE SL1,3,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+966,MA5240,LECTURE SL1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+967,MA5242,LECTURE SL1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+968,MA5245,LECTURE SL1,4,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+969,ME2101,LECTURE 1,86,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+970,ME2114,LECTURE 1,42,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+971,ME2135,LECTURE 1,46,2,1,1,100,ENGINEERING,Returning Students and New Students [P]
+972,ME2142,LECTURE 1,80,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+973,ME3102,LECTURE 1,224,8,1,1,109,ENGINEERING,Returning Students and New Students [P]
+974,ME3221,LECTURE 1,46,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+975,ME3231,LECTURE 1,9,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+976,ME3241,LECTURE 1,25,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+977,ME3251,LECTURE 1,3,8,2,2500,4500,ENGINEERING,Returning Students and New Students [P]
+978,ME3281,LECTURE 1,15,1,10,1,10,ENGINEERING,Returning Students and New Students [P]
+979,ME3291,LECTURE 1,46,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+980,ME4101A,LECTURE 1,164,5,1,1,1,ENGINEERING,Returning Students and New Students [P]
+981,ME4212,LECTURE 1,42,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+982,ME4213,LECTURE 1,22,2,1,1,100,ENGINEERING,Returning Students and New Students [P]
+983,ME4225,LECTURE 1,6,2,1,1,2817,ENGINEERING,Returning Students and New Students [P]
+984,ME4231,LECTURE 1,31,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+985,ME4246,LECTURE 1,32,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+986,ME4253,LECTURE 1,55,3,1,1,1,ENGINEERING,Returning Students and New Students [P]
+987,ME4255,LECTURE 1,3,7,1,2285,6018,ENGINEERING,Returning Students and New Students [P]
+988,ME4262,LECTURE 1,14,5,1,1,500,ENGINEERING,Returning Students and New Students [P]
+989,ME4284,LECTURE 1,17,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+990,MKT1003,LECTURE C1,3,4,1,1000,2000,ENGINEERING,Returning Students and New Students [P]
+991,MKT1003,LECTURE C1,13,9,1,1,600,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+992,MKT1003,LECTURE C1,5,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+993,MKT1003,LECTURE C1,1,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+994,MKT1003,LECTURE C1,40,1,2,1,2,SCHOOL OF BUSINESS,NUS Students [G]
+995,MKT1003,LECTURE C2,6,8,50,400,2672,ENGINEERING,Returning Students and New Students [P]
+996,MKT1003,LECTURE C2,14,5,1,1,1324,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+997,MKT1003,LECTURE C2,10,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+998,MKT1003,LECTURE C2,91,4,1,1,111,SCHOOL OF BUSINESS,NUS Students [G]
+999,MKT1003,LECTURE C3,1,4,200,2051,2051,SCIENCE,Returning Students and New Students [P]
+1000,MKT1003,LECTURE C3,8,11,10,500,1111,ENGINEERING,Returning Students and New Students [P]
+1001,MKT1003,LECTURE C3,19,3,1,1,200,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1002,MKT1003,LECTURE C3,13,1,3,1,3,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1003,MKT1003,LECTURE C3,95,2,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1004,MKT2411,SECTIONAL TEACHING B1,2,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1005,MKT2412,SECTIONAL TEACHING C1,1,2,409,466,466,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1006,MKT2412,SECTIONAL TEACHING C2,13,4,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1007,MKT2413,SECTIONAL TEACHING D1,4,4,100,1,1000,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1008,MKT3402,SECTIONAL TEACHING E2,1,2,200,1002,1002,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1009,MKT3402,SECTIONAL TEACHING E2,2,4,250,1458,1585,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1010,MKT3417,SECTIONAL TEACHING G1,11,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1011,MKT3418A,SECTIONAL TEACHING H1,1,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1012,MKT3418A,SECTIONAL TEACHING H2,20,1,897,1,897,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1013,MKT3418B,SECTIONAL TEACHING H3,13,3,1,1,500,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1014,MKT3420A,SECTIONAL TEACHING I1,13,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1015,MKT3420B,SECTIONAL TEACHING I2,18,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1016,MKT3513,SECTIONAL TEACHING J1,14,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1017,MKT4413,SECTIONAL TEACHING K1,14,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1018,ML3102,LECTURE SL1,28,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1019,ML3102,LECTURE SL1,14,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1020,ML3105,LECTURE SL1,28,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1021,ML3203,LECTURE SL1,33,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1022,ML3206,LECTURE SL1,28,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1023,ML3206,LECTURE SL1,14,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1024,ML4103,LECTURE SL1,17,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1025,ML4112,LECTURE SL1,16,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1026,MLE2103,LECTURE 1,6,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1027,MLE2104,LECTURE 1,14,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1028,MLE2105,LECTURE 1,15,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1029,MLE3101,LECTURE 1,10,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1030,MNO1001,LECTURE A1,9,16,1,700,1500,ENGINEERING,Returning Students and New Students [P]
+1031,MNO1001,LECTURE A1,23,10,10,1,2000,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1032,MNO1001,LECTURE A1,28,1,2946,1,2946,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1033,MNO1001,LECTURE A1,19,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1034,MNO1001,LECTURE A2,5,8,2,130,2165,ENGINEERING,Returning Students and New Students [P]
+1035,MNO1001,LECTURE A2,28,16,1,1,3002,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1036,MNO1001,LECTURE A2,59,1,11,1,11,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1037,MNO1001,LECTURE A2,41,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1038,MNO2302,SECTIONAL TEACHING A1,1,3,1,1092,1092,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1039,MNO2302,SECTIONAL TEACHING A3,7,1,731,1,731,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1040,MNO2311,SECTIONAL TEACHING B1,2,1,299,1,299,ENGINEERING,Returning Students and New Students [P]
+1041,MNO2311,SECTIONAL TEACHING B2,4,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1042,MNO2311,SECTIONAL TEACHING B2,2,2,101,1,1179,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1043,MNO3301,SECTIONAL TEACHING C1,6,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1044,MNO3301,SECTIONAL TEACHING C2,9,1,77,1,77,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1045,MNO3303,SECTIONAL TEACHING D1,7,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1046,MNO3303,SECTIONAL TEACHING D2,5,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1047,MNO3313A,SECTIONAL TEACHING E1,19,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1048,MNO3313D,SECTIONAL TEACHING G1,25,2,1,1,1,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1049,MNO3313E,SECTIONAL TEACHING H1,23,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1050,MNO3314,SECTIONAL TEACHING I1,23,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1051,MNO4312,SECTIONAL TEACHING J1,35,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1052,MNO4313D,SECTIONAL TEACHING K1,4,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1053,MS2210,LECTURE 1,43,20,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1054,MS2210,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1055,MS2211,LECTURE 1,11,4,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1056,MS2211,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1057,MS2212,LECTURE 1,19,16,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1058,MS2212,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1059,MS2213,LECTURE 1,45,35,1,1,2175,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1060,MS2213,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1061,MS3212,LECTURE 1,9,2,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1062,MS3212,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1063,MS3213,LECTURE 1,8,4,1,1,1083,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1064,MS3213,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1065,MS3214,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1066,MS3214,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1067,MUA1105,SECTIONAL TEACHING 1,19,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1068,MUA1105,SECTIONAL TEACHING 2,10,1,50,1,50,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1069,MUA1105,SECTIONAL TEACHING 4,5,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1070,MUA2108,SECTIONAL TEACHING 1,19,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1071,MUA2122,SECTIONAL TEACHING 1,18,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1072,MUA3104,SECTIONAL TEACHING 1,2,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1073,MUA3108,SECTIONAL TEACHING 1,22,1,50,1,50,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1074,MUA3114,SECTIONAL TEACHING 1,1,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1075,MUA3122,SECTIONAL TEACHING 1,29,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1076,MUA3203,SECTIONAL TEACHING 1,15,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1077,MUA3206,SECTIONAL TEACHING 1,10,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1078,MUA3209,SECTIONAL TEACHING 1,9,1,700,1,700,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1079,MUA3209,SECTIONAL TEACHING 2,6,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1080,MUA4104,SECTIONAL TEACHING 1,2,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1081,MUA4105,SECTIONAL TEACHING 1,4,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1082,MUA4105,SECTIONAL TEACHING 2,6,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1083,MUA4108,SECTIONAL TEACHING 1,37,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1084,MUA4114,SECTIONAL TEACHING 1,2,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1085,MUA4122,SECTIONAL TEACHING 1,31,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1086,MUH2116,SECTIONAL TEACHING 2,11,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1087,MUH3116,SECTIONAL TEACHING 2,5,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1088,MUH3116,SECTIONAL TEACHING 3,6,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1089,MUH3203,SECTIONAL TEACHING 1,15,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1090,MUH3205,SECTIONAL TEACHING 1,7,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1091,MUH3207,SECTIONAL TEACHING 1,14,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1092,MUH4116,SECTIONAL TEACHING 2,12,1,600,1,600,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1093,MUL2102,SECTIONAL TEACHING 1,11,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1094,MUL2102,SECTIONAL TEACHING 2,4,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1095,MUL2202,SECTIONAL TEACHING 1,20,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1096,MUL2202,SECTIONAL TEACHING 2,24,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1097,MUT2118,SECTIONAL TEACHING 2,5,1,50,1,50,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1098,MUT2120,SECTIONAL TEACHING 2,2,1,50,1,50,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1099,MUT2120,SECTIONAL TEACHING 3,3,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1100,MUT2126,SECTIONAL TEACHING 2,4,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1101,MUT2126,SECTIONAL TEACHING 3,3,1,50,1,50,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1102,MUT3112,SECTIONAL TEACHING 1,8,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1103,MUT3112,SECTIONAL TEACHING 2,6,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1104,MUT3201,SECTIONAL TEACHING 1,14,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1105,MUT4201,SECTIONAL TEACHING 1,9,0,0,0,0,YONG SIEW TOH CONSERVATORY OF MUSIC,Returning Students and New Students [P]
+1106,NM1101E,LECTURE 1,15,24,50,350,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1107,NM1101E,LECTURE 1,28,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1108,NM1101E,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1109,NM2101,LECTURE 1,5,10,150,968,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1110,NM2101,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1111,NM2101,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1112,NM2102,LECTURE 1,31,33,50,51,738,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1113,NM2102,LECTURE 1,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1114,NM2102,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1115,NM2208,LECTURE 1,1,6,50,2300,2300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1116,NM2208,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1117,NM2209,LECTURE 1,1,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1118,NM2216,LECTURE 1,90,25,1,1,1660,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1119,NM2216,LECTURE 1,5,5,200,1,1593,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1120,NM2216,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1121,NM2218,LECTURE 1,78,25,1,1,3208,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1122,NM2218,LECTURE 1,1,4,103,800,800,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1123,NM2219,LECTURE 1,15,28,228,1200,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1124,NM2219,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1125,NM2221,LECTURE 1,7,8,300,533,1433,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1126,NM3206,LECTURE 1,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1127,NM3216,LECTURE 1,18,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1128,NM3216,LECTURE 1,4,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1129,NM3219,LECTURE 1,2,1,700,1,700,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1130,NM3221,LECTURE 1,50,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1131,NM3221,LECTURE 1,3,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1132,NM4202,SECTIONAL TEACHING 1,40,22,1,1,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1133,NM4204,SECTIONAL TEACHING 1,26,19,1,1,2152,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1134,NM4210,SECTIONAL TEACHING 1,32,10,1,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1135,NM4880C,SECTIONAL TEACHING 1,18,23,100,500,2078,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1136,NM5202,SECTIONAL TEACHING 1,14,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1137,NM5202,SECTIONAL TEACHING 1,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1138,NM5204,SECTIONAL TEACHING 1,14,2,100,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1139,NM5204,SECTIONAL TEACHING 1,5,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1140,PC1143,LECTURE SL1,98,10,1,1,500,SCIENCE,Returning Students and New Students [P]
+1141,PC1143,LECTURE SL1,37,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1142,PC1143,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1143,PC1144,LECTURE SL1,109,21,1,1,1194,SCIENCE,Returning Students and New Students [P]
+1144,PC1144,LECTURE SL1,34,1,101,1,101,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1145,PC1144,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1146,PC1222,LECTURE SL1,16,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1147,PC1222,LECTURE SL1,36,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1148,PC1222,LECTURE SL1,30,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1149,PC1322,LECTURE SL1,2,5,2,2060,3000,SCIENCE,Returning Students and New Students [P]
+1150,PC1322,LECTURE SL1,90,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1151,PC1325,LECTURE SL1,41,4,1,1,511,SCIENCE,Returning Students and New Students [P]
+1152,PC1325,LECTURE SL1,90,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1153,PC1326,LECTURE SL1,3,6,1228,2600,3300,SCIENCE,Returning Students and New Students [P]
+1154,PC1326,LECTURE SL1,90,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1155,PC1327,LECTURE SL1,3,10,1,3164,4000,SCIENCE,Returning Students and New Students [P]
+1156,PC1327,LECTURE SL1,90,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1157,PC1328,LECTURE SL1,1,2,1400,2000,2000,SCIENCE,Returning Students and New Students [P]
+1158,PC1328,LECTURE SL1,50,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1159,PC1431,LECTURE D,25,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1160,PC1431,LECTURE D,28,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1161,PC1431,LECTURE D,30,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1162,PC1432,LECTURE A,5,1,150,1,150,SCIENCE,Returning Students and New Students [P]
+1163,PC1432,LECTURE A,34,3,1,1,30,ENGINEERING,Returning Students and New Students [P]
+1164,PC1432,LECTURE A,16,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1165,PC1432,LECTURE A,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1166,PC1432,LECTURE C,14,1,10,1,10,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1167,PC1432,LECTURE C,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1168,PC1432,LECTURE D,3,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1169,PC1432,LECTURE D,47,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1170,PC1432,LECTURE D,18,0,0,0,0,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1171,PC1432,LECTURE D,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1172,PC2130,LECTURE SL1,75,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1173,PC2130,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1174,PC2131,LECTURE SL1,60,1,25,1,25,SCIENCE,Returning Students and New Students [P]
+1175,PC2131,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1176,PC2132,LECTURE SL1,20,4,1,1,200,SCIENCE,Returning Students and New Students [P]
+1177,PC2132,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1178,PC2174,LECTURE SL1,80,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1179,PC2174,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1180,PC2193,LECTURE SL1,98,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1181,PC2193,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1182,PC2230,LECTURE SL1,58,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1183,PC2230,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1184,PC3130,LECTURE SL1,1,1,500,1,500,SCIENCE,Returning Students and New Students [P]
+1185,PC3130,LECTURE SL1,8,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1186,PC3130,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1187,PC3193,LECTURE SL1,55,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1188,PC3193,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1189,PC3232,LECTURE SL1,39,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1190,PC3232,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1191,PC3241,LECTURE SL1,68,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1192,PC3241,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1193,PC3243,LECTURE SL1,64,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1194,PC3243,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1195,PC3267,LECTURE SL1,27,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1196,PC3267,LECTURE SL1,6,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1197,PC3267,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1198,PC4240,LECTURE SL1,34,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1199,PC4240,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1200,PC4243,LECTURE SL1,35,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1201,PC4243,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1202,PC4245,LECTURE SL1,39,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1203,PC4245,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1204,PC4248,LECTURE SL1,37,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1205,PC4248,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1206,PC4262,LECTURE SL1,36,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1207,PC4262,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1208,PC4265,LECTURE SL1,27,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1209,PC4265,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1210,PC4268,LECTURE SL1,43,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1211,PC4268,LECTURE SL1,5,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1212,PF1103,LECTURE 1,5,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1213,PF1104,LECTURE 1,24,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1214,PH1101E,LECTURE 1,31,20,1,1,800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1215,PH1101E,LECTURE 1,100,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1216,PH2205,LECTURE 1,14,19,1,300,2662,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1217,PH2205,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1218,PH2206,LECTURE 1,18,10,1,1,1890,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1219,PH2206,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1220,PH2213,LECTURE 1,30,18,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1221,PH2213,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1222,PH2880A,LECTURE 1,10,14,559,728,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1223,PH2880A,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1224,PH3202,LECTURE 1,8,2,50,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1225,PH3202,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1226,PH3204,LECTURE 1,7,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1227,PH3204,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1228,PH3217,LECTURE 1,18,1,50,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1229,PH3217,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1230,PH4206,SEMINAR-STYLE MODULE CLASS 1,6,2,100,1,3307,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1231,PH4210,SEMINAR-STYLE MODULE CLASS 1,6,2,50,1,200,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1232,PH4212,SEMINAR-STYLE MODULE CLASS 1,6,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1233,PL1101E,LECTURE 1,7,12,150,799,1932,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1234,PL1101E,LECTURE 1,84,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1235,PL2132,LECTURE 1,29,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1236,PL3232,LECTURE 1,127,149,1,527,1879,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1237,PL3233,LECTURE 1,136,104,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1238,PL3234,LECTURE 1,138,147,1,56,1400,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1239,PL3235,LECTURE 1,135,117,1,1,887,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1240,PL3236,LECTURE 1,136,91,1,1,750,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1241,PL3241,LECTURE 1,11,11,1,1,1179,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1242,PL3242,LECTURE 1,31,2,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1243,PL3253,LECTURE 1,42,3,1,1,2,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1244,PL3880A,LECTURE 1,96,2,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1245,PL3880C,LECTURE 1,22,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1246,PL4207,SEMINAR-STYLE MODULE CLASS 1,18,12,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1247,PL4208,LECTURE 1,1,1,350,1,350,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1248,PL4213,SEMINAR-STYLE MODULE CLASS 1,6,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1249,PL4214,SEMINAR-STYLE MODULE CLASS 1,6,9,521,760,1660,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1250,PL4217,SEMINAR-STYLE MODULE CLASS 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1251,PL4218,SEMINAR-STYLE MODULE CLASS 1,2,5,692,1228,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1252,PL4880A,SEMINAR-STYLE MODULE CLASS 1,4,7,1225,1764,2401,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1253,PL5222,SEMINAR-STYLE MODULE CLASS 1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1254,PL5225,SEMINAR-STYLE MODULE CLASS 1,33,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1255,PR2202,LECTURE SL1,41,24,1,1,3315,SCIENCE,Returning Students and New Students [P]
+1256,PR2202,LECTURE SL1,248,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1257,PR3104,LECTURE SL1,15,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1258,PR4105,LECTURE SL1,20,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1259,PR4204,LECTURE SL1,60,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1260,PR4206,LECTURE SL1,50,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1261,PR4207,LECTURE SL1,59,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1262,PS1101E,LECTURE 1,69,10,1,1,1001,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1263,PS1101E,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1264,PS2102,LECTURE 1,23,24,20,50,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1265,PS2102,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1266,PS2239,LECTURE 1,16,25,20,800,3162,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1267,PS2239,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1268,PS2244,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1269,PS2245,LECTURE 1,13,10,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1270,PS2245,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1271,PS2246,LECTURE 1,17,11,1,1,550,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1272,PS2246,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1273,PS2247,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1274,PS2248,LECTURE 1,33,13,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1275,PS2248,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1276,PS2249,LECTURE 1,80,21,1,1,2385,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1277,PS2249,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1278,PS3232,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1279,PS3234,LECTURE 1,57,2,6,1,1568,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1280,PS3234,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1281,PS3240,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1282,PS3243,LECTURE 1,21,5,1,1,1900,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1283,PS3243,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1284,PS3249,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1285,PS3254,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1286,PS4204,SECTIONAL TEACHING 1,14,3,20,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1287,PS4209,SECTIONAL TEACHING 1,18,3,2,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1288,PS4212,SECTIONAL TEACHING 1,8,12,250,1000,2863,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1289,RE1803,LECTURE 1,18,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1290,RE1803,LECTURE 1,7,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1291,RE1804,LECTURE 1,8,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1292,RE1804,LECTURE 1,10,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Reserved for [G] in later round
+1293,RE1805,LECTURE 1,15,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1294,RE1805,LECTURE 1,10,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1295,RE2180,LECTURE 1,4,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1296,RE2280,LECTURE 1,30,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1297,RE2280,LECTURE 1,10,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1298,RE2281,LECTURE 1,6,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1299,RE2281,LECTURE 1,3,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1300,RE2480,LECTURE 1,8,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1301,RE2480,LECTURE 1,5,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1302,RE3190,LECTURE 1,3,4,100,287,4496,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1303,RE3190,SECTIONAL TEACHING 2,13,1,1,1,1,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1304,RE3382,LECTURE 1,2,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1305,RE3383,LECTURE 1,3,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1306,RE3482,LECTURE 1,11,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1307,RE3482,LECTURE 1,3,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1308,RE3483,LECTURE 1,8,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1309,RE3483,LECTURE 1,3,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1310,RE3490,LECTURE 1,22,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1311,RE3490,SECTIONAL TEACHING 2,9,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1312,RE4190,LECTURE 1,3,5,2200,3000,3700,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1313,RE4190,LECTURE 1,5,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,NUS Students [G]
+1314,RE4290,LECTURE 1,4,4,1,1,3114,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1315,RE4290,LECTURE 1,10,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Reserved for [G] in later round
+1316,RE4491,SECTIONAL TEACHING 1,16,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1317,SC1101E,LECTURE 1,148,13,1,1,790,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1318,SC1101E,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1319,SC1101E,LECTURE 2,150,11,1,1,596,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1320,SC1101E,LECTURE 2,147,7,1,1,100,ENGINEERING,Returning Students and New Students [P]
+1321,SC1101E,LECTURE 2,19,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1322,SC1101E,LECTURE 2,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1323,SC2101,LECTURE 1,93,25,1,1,1333,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1324,SC2101,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1325,SC2202,LECTURE 1,95,70,1,1,2033,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1326,SC2202,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1327,SC2203,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1328,SC2205,LECTURE 1,34,51,203,980,2795,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1329,SC2205,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1330,SC2206,LECTURE 1,10,17,201,1051,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1331,SC2206,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1332,SC2209,LECTURE 1,24,33,100,550,2100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1333,SC2209,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1334,SC2211,LECTURE 1,54,33,1,1,1994,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1335,SC2211,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1336,SC2212,LECTURE 1,63,94,2,764,2468,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1337,SC2212,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1338,SC2215,LECTURE 1,28,39,100,1818,3460,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1339,SC2215,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1340,SC2218,LECTURE 1,13,20,130,800,1757,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1341,SC2218,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1342,SC3101,LECTURE 1,77,8,1,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1343,SC3101,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1344,SC3203,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1345,SC3205,LECTURE 1,1,3,200,2024,2024,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1346,SC3205,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1347,SC3206,LECTURE 1,1,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1348,SC3211,LECTURE 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1349,SC3219,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1350,SC3221,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1351,SC4212,SEMINAR-STYLE MODULE CLASS 1,1,5,20,3566,3566,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1352,SC5101,SEMINAR-STYLE MODULE CLASS 1,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1353,SC5103,SEMINAR-STYLE MODULE CLASS 1,9,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1354,SC5215,SEMINAR-STYLE MODULE CLASS 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1355,SE1101E,LECTURE 1,64,16,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1356,SE1101E,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1357,SE2211,LECTURE 1,29,24,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1358,SE2211,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1359,SE2212,LECTURE 1,23,18,10,1,2635,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1360,SE2212,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1361,SE2214,LECTURE 1,53,20,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1362,SE2214,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1363,SE2221,LECTURE 1,52,30,1,1,2735,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1364,SE2221,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1365,SE3210,LECTURE 1,28,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1366,SE3210,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1367,SE3211,LECTURE 1,17,14,1,1,3000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1368,SE3211,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1369,SE3217,LECTURE 1,27,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1370,SE3217,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1371,SE3218,LECTURE 1,28,5,101,1,500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1372,SE3218,LECTURE 1,20,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1373,SE5221,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1374,SE5222,SEMINAR-STYLE MODULE CLASS 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1375,SE5233,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1376,SE5241,SECTIONAL TEACHING 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1377,SE5242,SEMINAR-STYLE MODULE CLASS 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1378,SN1101E,LECTURE 1,109,8,1,1,1061,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1379,SN1101E,LECTURE 1,50,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1380,SN3231,SECTIONAL TEACHING 1,18,2,5,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1381,SN3231,SECTIONAL TEACHING 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1382,SN3232,SECTIONAL TEACHING 1,47,9,10,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1383,SN3232,SECTIONAL TEACHING 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1384,SN3262,SECTIONAL TEACHING 1,8,3,10,1,800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1385,SN3262,SECTIONAL TEACHING 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1386,SN3272,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1387,SN3275,LECTURE 1,25,2,15,1,50,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1388,SN3275,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1389,SP1201,LECTURE SL1,1,2,1,1118,1118,SCIENCE,Returning Students and New Students [P]
+1390,SP1202,LECTURE SL1,11,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1391,SP1202,LECTURE SL2,14,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1392,SP1202,LECTURE SL3,13,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1393,SP1202,LECTURE SL4,14,4,1,1,4346,SCIENCE,Returning Students and New Students [P]
+1394,SP1202,LECTURE SL5,13,2,10,1,2418,SCIENCE,Returning Students and New Students [P]
+1395,SP2251,LECTURE SL1,140,35,1,1,2700,SCIENCE,Returning Students and New Students [P]
+1396,SP2251,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1397,SSA2204,LECTURE 1,49,2,100,1,1000,ENGINEERING,Returning Students and New Students [P]
+1398,SSA2209,LECTURE 1,48,14,1,1,614,ARTS & SOCIAL SCIENCES,NUS Students [G]
+1399,SSA2211,LECTURE 1,59,4,1,1,2735,ENGINEERING,Returning Students and New Students [P]
+1400,SSA2211,LECTURE 1,147,29,1,1,781,ARTS & SOCIAL SCIENCES,NUS Students [G]
+1401,SSA2219,LECTURE 1,55,17,1,1,700,ARTS & SOCIAL SCIENCES,NUS Students [G]
+1402,SSA3205,LECTURE 1,31,6,1,1,300,ARTS & SOCIAL SCIENCES,NUS Students [G]
+1403,SSB1204,LECTURE A,111,18,1,1,689,SCHOOL OF BUSINESS,NUS Students [G]
+1404,SSB2212,LECTURE B,10,13,100,201,810,SCHOOL OF BUSINESS,NUS Students [G]
+1405,SSB2216,SECTIONAL TEACHING SB31,1,2,10,1100,1100,SCHOOL OF BUSINESS,NUS Students [G]
+1406,SSB2216,SECTIONAL TEACHING SB32,10,9,1,1,527,SCHOOL OF BUSINESS,NUS Students [G]
+1407,SSB2216,SECTIONAL TEACHING SB33,2,1,10,1,10,SCHOOL OF BUSINESS,NUS Students [G]
+1408,SSB2216,SECTIONAL TEACHING SB34,9,8,6,1,924,SCHOOL OF BUSINESS,NUS Students [G]
+1409,SSB2216,SECTIONAL TEACHING SB35,12,11,1,1,953,SCHOOL OF BUSINESS,NUS Students [G]
+1410,SSB2216,SECTIONAL TEACHING SB41,5,5,1,1,150,SCHOOL OF BUSINESS,NUS Students [G]
+1411,SSB2216,SECTIONAL TEACHING SB42,6,6,1,1,150,SCHOOL OF BUSINESS,NUS Students [G]
+1412,SSB2216,SECTIONAL TEACHING SB43,9,12,51,250,493,SCHOOL OF BUSINESS,NUS Students [G]
+1413,SSB2216,SECTIONAL TEACHING SB44,6,6,50,1,500,SCHOOL OF BUSINESS,NUS Students [G]
+1414,SSB2216,SECTIONAL TEACHING SB45,6,6,1,1,800,SCHOOL OF BUSINESS,NUS Students [G]
+1415,ST1131,LECTURE SL1,24,3,1,1,400,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1416,ST1131,LECTURE SL1,94,6,1,1,872,SCIENCE,Returning Students and New Students [P]
+1417,ST1131,LECTURE SL1,4,2,1,1,1000,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1418,ST1131A,LECTURE SL1,17,1,5,1,5,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1419,ST1232,LECTURE SL1,16,1,101,1,101,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1420,ST2131,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1421,ST2131,LECTURE SL1,61,4,1,1,2,SCIENCE,Returning Students and New Students [P]
+1422,ST2131,LECTURE SL1,36,1,10,1,10,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1423,ST2131,LECTURE SL1,40,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1424,ST2132,LECTURE SL1,29,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1425,ST2132,LECTURE SL1,25,3,1,1,1,SCIENCE,Returning Students and New Students [P]
+1426,ST2132,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1427,ST2334,LECTURE SL1,48,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1428,ST2334,LECTURE SL1,31,2,1,1,10,SCHOOL OF COMPUTING,Returning Students and New Students [P]
+1429,ST2334,LECTURE SL1,40,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1430,ST3131,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1431,ST3131,LECTURE SL1,11,3,1,1,500,SCIENCE,Returning Students and New Students [P]
+1432,ST3131,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1433,ST3232,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1434,ST3232,LECTURE SL1,68,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1435,ST3232,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1436,ST3233,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1437,ST3233,LECTURE SL1,58,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1438,ST3233,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1439,ST3234,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1440,ST3234,LECTURE SL1,37,2,1,1,100,SCIENCE,Returning Students and New Students [P]
+1441,ST3234,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1442,ST3239,LECTURE SL1,29,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1443,ST3239,LECTURE SL1,6,2,1,1,400,SCIENCE,Returning Students and New Students [P]
+1444,ST3239,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1445,ST3240,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1446,ST3240,LECTURE SL1,65,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1447,ST3240,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1448,ST3241,LECTURE SL1,30,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1449,ST3241,LECTURE SL1,15,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1450,ST3241,LECTURE SL1,20,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1451,ST4234,LECTURE SL1,8,1,1,1,1,SCIENCE,Returning Students and New Students [P]
+1452,ST4234,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1453,ST4238,LECTURE SL1,12,2,1,1,1172,SCIENCE,Returning Students and New Students [P]
+1454,ST4238,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1455,ST4240,LECTURE SL1,20,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1456,ST4240,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1457,ST4242,LECTURE SL1,23,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1458,ST4242,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1459,ST4245,LECTURE SL1,8,1,1150,1,1150,SCIENCE,Returning Students and New Students [P]
+1460,ST4245,LECTURE SL1,10,0,0,0,0,SCIENCE,Reserved for [G] in later round
+1461,ST5214,LECTURE SL1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1462,ST5217,LECTURE SL1,5,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1463,SW1101E,LECTURE 1,27,17,1,1,1000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1464,SW1101E,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1465,SW1101E,LECTURE 2,58,8,1,1,465,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1466,SW1101E,LECTURE 2,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1467,SW2101,LECTURE 1,15,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1468,SW2103,LECTURE 1,26,13,1,1,698,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1469,SW2104,LECTURE 1,125,58,1,1,1800,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1470,SW2104,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1471,SW2105,LECTURE 1,8,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1472,SW3214,SEMINAR-STYLE MODULE CLASS 2,1,3,737,2546,2546,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1473,SW3217,LECTURE 1,4,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1474,SW4201,SEMINAR-STYLE MODULE CLASS 1,9,1,1,1,1,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1475,SW4202,SEMINAR-STYLE MODULE CLASS 1,14,11,2,1,888,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1476,SW4208,SEMINAR-STYLE MODULE CLASS 1,10,5,5,1,2300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1477,SW4211,SEMINAR-STYLE MODULE CLASS 1,7,3,500,1,1582,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1478,SW4216,SEMINAR-STYLE MODULE CLASS 1,18,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1479,TC1402,LECTURE 1,29,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1480,TC1403,LECTURE 1,93,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1481,TC1406,LECTURE 1,36,2,2,1,10,ENGINEERING,Returning Students and New Students [P]
+1482,TC2106,LECTURE 1,27,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1483,TC2115,LECTURE 1,36,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1484,TC3112,LECTURE 1,37,2,2,1,10,ENGINEERING,Returning Students and New Students [P]
+1485,TC3411,LECTURE 1,38,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1486,TC3412,LECTURE 1,56,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1487,TC4109,LECTURE 1,15,2,1,1,10,ENGINEERING,Returning Students and New Students [P]
+1488,TC4118,LECTURE 1,37,1,2,1,2,ENGINEERING,Returning Students and New Students [P]
+1489,TC4210,LECTURE 1,45,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1490,TC4211,LECTURE 1,37,1,50,1,50,ENGINEERING,Returning Students and New Students [P]
+1491,TC4213,LECTURE 1,35,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1492,TE2002,LECTURE 1,198,3,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1493,TE3801,LECTURE 1,74,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1494,TE4001,LECTURE 1,31,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1495,TM1111,LECTURE 1,92,1,10,1,10,ENGINEERING,Returning Students and New Students [P]
+1496,TM1131,LECTURE 1,95,1,10,1,10,ENGINEERING,Returning Students and New Students [P]
+1497,TM1401,LECTURE 1,93,1,10,1,10,ENGINEERING,Returning Students and New Students [P]
+1498,TM2131,LECTURE 1,90,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1499,TM2141,LECTURE 1,85,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1500,TM2162,LECTURE 1,82,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1501,TM3101,LECTURE 1,114,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1502,TM3142,LECTURE 1,36,2,1,1,2,ENGINEERING,Returning Students and New Students [P]
+1503,TM3161,LECTURE 1,117,2,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1504,TM3213,LECTURE 1,23,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1505,TM3224,LECTURE 1,41,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1506,TM3241,LECTURE 1,20,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1507,TM3251,LECTURE 1,22,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1508,TM4101,LECTURE 1,37,3,1,1,10,ENGINEERING,Returning Students and New Students [P]
+1509,TM4261,LECTURE 1,19,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1510,TM4262,LECTURE 1,17,1,1,1,1,ENGINEERING,Returning Students and New Students [P]
+1511,TM4271,LECTURE 1,50,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1512,TP5028,LECTURE 1,17,2,1,1,10,ENGINEERING,Returning Students and New Students [P]
+1513,TR2201,SECTIONAL TEACHING A1,44,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1514,TR2201,SECTIONAL TEACHING A2,45,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1515,TR2201,SECTIONAL TEACHING A3,44,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1516,TR2201,SECTIONAL TEACHING A4,48,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1517,TR2202,SECTIONAL TEACHING B1,3,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1518,TR2202,SECTIONAL TEACHING B1,26,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1519,TR2202,SECTIONAL TEACHING B2,3,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1520,TR2202,SECTIONAL TEACHING B2,21,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1521,TR2202,SECTIONAL TEACHING B3,4,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1522,TR2202,SECTIONAL TEACHING B3,20,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1523,TR3001,SECTIONAL TEACHING C1,1,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1524,TR3001,SECTIONAL TEACHING C1,40,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1525,TR3001,SECTIONAL TEACHING C2,1,0,0,0,0,ENGINEERING,Returning Students and New Students [P]
+1526,TR3001,SECTIONAL TEACHING C2,47,1,1,1,1,SCHOOL OF BUSINESS,NUS Students [G]
+1527,TR3002,SECTIONAL TEACHING D1,9,0,0,0,0,SCHOOL OF BUSINESS,NUS Students [G]
+1528,TS1101E,LECTURE 1,51,5,1,1,300,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1529,TS1101E,LECTURE 1,5,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1530,TS2231,SEMINAR-STYLE MODULE CLASS 1,30,2,5,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1531,TS2231,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1532,TS2235,SEMINAR-STYLE MODULE CLASS 1,34,12,1,1,1869,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1533,TS2235,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1534,TS2236,SEMINAR-STYLE MODULE CLASS 1,39,2,50,1,100,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1535,TS2236,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1536,TS2237,LECTURE 1,28,13,1,1,1350,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1537,TS2237,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1538,TS3103,LECTURE 1,29,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1539,TS3233,SEMINAR-STYLE MODULE CLASS 1,33,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1540,TS3233,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1541,TS3236,SEMINAR-STYLE MODULE CLASS 1,25,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1542,TS3236,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1543,TS3237,SEMINAR-STYLE MODULE CLASS 1,39,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1544,TS3237,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1545,TS3238,LECTURE 1,33,5,1,1,1500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1546,TS3238,LECTURE 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1547,TS3239,SEMINAR-STYLE MODULE CLASS 1,36,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1548,TS3239,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1549,TS3243,SEMINAR-STYLE MODULE CLASS 1,37,3,1,1,3038,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1550,TS3243,SEMINAR-STYLE MODULE CLASS 1,2,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1551,TS4213,SEMINAR-STYLE MODULE CLASS 1,9,2,101,1,230,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1552,TS4219,SEMINAR-STYLE MODULE CLASS 1,17,1,2000,1,2000,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1553,UBZ4001,SECTIONAL TEACHING A1,30,0,0,0,0,SCHOOL OF BUSINESS,Returning Students and New Students [P]
+1554,UD5624,LECTURE 1,6,0,0,0,0,SCHOOL OF DESIGN AND ENVIRONMENT,Returning Students and New Students [P]
+1555,UIT2201,PACKAGED LECTURE 1,11,1,253,1,253,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1556,UIT2201,PACKAGED LECTURE 2,13,1,100,1,100,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1557,UIT2203,SEMINAR-STYLE MODULE CLASS 1,23,1,23,1,23,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1558,UIT2205,PACKAGED LECTURE 1,15,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1559,UIT2205,PACKAGED LECTURE 2,14,2,1,1,100,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1560,ULS2202,PACKAGED LECTURE 1,3,3,2,1,25,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1561,ULS2202,PACKAGED LECTURE 2,2,2,1,1,1000,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1562,ULT2299A,SEMINAR-STYLE MODULE CLASS 1,14,2,1,1,6,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1563,UNL2201,PACKAGED LECTURE 1,14,5,1,1,300,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1564,UNL2201,PACKAGED LECTURE 2,13,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1565,UPI2205,PACKAGED LECTURE 2,1,1,1,1,1,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1566,UQR2202,PACKAGED LECTURE 1,6,3,48,1,1000,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1567,USC3001,LECTURE SL1,35,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1568,USC3004,LECTURE SL1,35,0,0,0,0,SCIENCE,Returning Students and New Students [P]
+1569,USE2302,SEMINAR-STYLE MODULE CLASS 1,13,3,1,1,25,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1570,USE2305,PACKAGED LECTURE 1,2,5,250,748,791,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1571,USE2305,PACKAGED LECTURE 2,5,2,16,1,155,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1572,UWC2101I,SEMINAR-STYLE MODULE CLASS 1,1,1,200,1,200,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1573,UWC2101I,SEMINAR-STYLE MODULE CLASS 2,4,1,500,1,500,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1574,UWC2101K,SEMINAR-STYLE MODULE CLASS 2,6,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1575,UWC2101P,SEMINAR-STYLE MODULE CLASS 1,1,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1576,UWC2101P,SEMINAR-STYLE MODULE CLASS 2,8,1,100,1,100,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1577,UWC2101S,SEMINAR-STYLE MODULE CLASS 1,7,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1578,UWC2101S,SEMINAR-STYLE MODULE CLASS 2,9,0,0,0,0,UNIVERSITY SCHOLARS PROGRAMME,NUS Students [G]
+1579,XD2101,LECTURE 1,99,11,1,1,438,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1580,XD2101,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1581,XD2201,LECTURE 1,5,18,347,1337,2500,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1582,XD2201,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1583,XD3101,SEMINAR-STYLE MODULE CLASS 1,32,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1584,XD3101,SEMINAR-STYLE MODULE CLASS 1,3,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
+1585,XD3102,LECTURE 1,82,0,0,0,0,ARTS & SOCIAL SCIENCES,Returning Students and New Students [P]
+1586,XD3102,LECTURE 1,10,0,0,0,0,ARTS & SOCIAL SCIENCES,Reserved for [G] in later round
