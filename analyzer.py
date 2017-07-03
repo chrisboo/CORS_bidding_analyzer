@@ -90,9 +90,9 @@ def query(module, faculty, sem, accType, newStudent):
     print(minPoints)
 
     plt.xticks(years, years)
-    #plt.yticks(range(math.floor(min(minPoints)), math.floor(max(maxPoints)) + 1))
     plt.plot(years, maxPoints)
     plt.plot(years, minPoints)
+    plt.legend(['max', 'min'], loc='center left', bbox_to_anchor=(1, 0.5))
     plt.show()
 
 query('MA1101R', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
