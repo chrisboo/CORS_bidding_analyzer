@@ -65,8 +65,10 @@ def query(module, faculty, sem, accType, newStudent):
     maxX, maxY = zip(*maxResult)
     minX, minY = zip(*minResult)
 
-    plt.plot(maxX, maxY)
-    plt.plot(minX, minY)
+    fig, ax = plt.subplots()
+    topLine = ax.plot(maxY, 'ko-', label='Max lowestSuccBid among all rounds')
+    botLine = ax.plot(minY, 'ro-', label='Min lowestSuccBid among all rounds')
+
     plt.show()
 
 query('MA1101R', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
