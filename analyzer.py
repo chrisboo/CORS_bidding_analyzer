@@ -1,28 +1,98 @@
+import math
+import bs4 as bs
 import pandas as pd
-from source import getSource
+import urllib.request
+import matplotlib.pyplot as plt
 
-urlSources = getSource('http://www.cors.nus.edu.sg/archive.html');
+main = 'http://www.cors.nus.edu.sg/'
 
-sauce = urllib.request.urlopen('http://www.nus.edu.sg/cors/Archive/201617_Sem1/successbid_1A_20162017s1.html').read()
-soup = bs.BeautifulSoup(sauce, 'lxml')
+rawHTML = urllib.request.urlopen(main + 'archive.html').read()
 
-table_rows = soup.find_all('tr')
+HTML = bs.BeautifulSoup(rawHTML, 'lxml')
 
-data = []
+outboundLinks = HTML.find_all('a', href=True)
 
-for tr in table_rows:
- 	td = tr.find_all('td')
- 	row = [i.text for i in td]
+urls = [link.get('href') for link in outboundLinks if link.get('href').startswith('./Archive') and "successbid" in link.get('href')]
 
- 	if len(row) < 9:
- 		row = [data[-1][0]] + [data[-1][1]] + row[1:]
+def year(url):
+    return int(url[10:16])
 
- 	data.append(row)
+urls.sort(key=year)
 
-df = pd.DataFrame.from_records(data[2:], columns=data[0])
+years = list(set([year(url) for url in urls]))
 
-df = df.apply(pd.to_numeric, errors='ignore')
+years.sort()
 
-df = df.sort_values('LowestSuccBid', ascending=False)
+print(years)
 
-print(df.head(10).ix[:, ['Module', 'LowestSuccBid']])
+def query(module, faculty, sem, accType, newStudent):
+    maxPoints = [0 for _ in range(len(years))]
+    minPoints = [100000 for _ in range(len(years))]
+
+    for url in urls:
+        if "Sem" + str(sem) not in url:
+            continue
+
+        print(url)
+
+        rawHTML = urllib.request.urlopen(main + url).read()
+        HTML = bs.BeautifulSoup(rawHTML, 'lxml')
+
+        pageData = []
+
+        tableRows = HTML.find_all('tr')
+
+        for tr in tableRows:
+            td = tr.find_all('td')
+            row = [entry.text for entry in td]
+
+            # clean row
+            if len(row) < 9:
+                row = pageData[-1][0:2] + row[1:]
+
+            pageData.append(row)
+
+        # create pandas data frame
+        df = pd.DataFrame.from_records(pageData[2:], columns=pageData[0])
+
+        # remove unwanted columns
+        df = df.drop(['Quota', 'NoofBidders', 'LowestBid', 'HighestBid'], axis=1)
+
+        # change data type of all entries to numbers whenever possible
+        df = df.apply(pd.to_numeric, errors='ignore')
+
+        # filter new student
+        if newStudent:
+            df = df.drop(df[df['Student Type[Acct Type]'].str.contains("New Students")].index)
+
+        # extract rows with the module code
+        df = df[df['Module'] == module]
+
+        # extract rows that is associated with your faculty
+        if '_3' not in url:
+            df = df[df['Faculty'] == faculty]
+
+        maxPoint = df['LowestSuccBid'].max()
+        minPoint = df['LowestSuccBid'].min()
+
+        print(maxPoint, minPoint)
+
+        if not math.isnan(maxPoint):
+            maxIdx = years.index(year(url))
+            maxPoints[maxIdx] = max(maxPoints[maxIdx], maxPoint)
+
+        if not math.isnan(minPoint):
+            minIdx = years.index(year(url))
+            minPoints[minIdx] = min(minPoints[minIdx], minPoint)
+
+    print(years)
+    print(maxPoints)
+    print(minPoints)
+
+    plt.xticks(years, years)
+    #plt.yticks(range(math.floor(min(minPoints)), math.floor(max(maxPoints)) + 1))
+    plt.plot(years, maxPoints)
+    plt.plot(years, minPoints)
+    plt.show()
+
+query('MA1101R', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
