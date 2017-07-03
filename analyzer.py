@@ -1,98 +1,72 @@
-import math
-import bs4 as bs
+import os
+import numpy as np
 import pandas as pd
-import urllib.request
 import matplotlib.pyplot as plt
 
-main = 'http://www.cors.nus.edu.sg/'
+def semester(fname):
+    return int(fname[23])
 
-rawHTML = urllib.request.urlopen(main + 'archive.html').read()
+def year(fname):
+    return fname[11:19]
 
-HTML = bs.BeautifulSoup(rawHTML, 'lxml')
-
-outboundLinks = HTML.find_all('a', href=True)
-
-urls = [link.get('href') for link in outboundLinks if link.get('href').startswith('./Archive') and "successbid" in link.get('href')]
-
-def year(url):
-    return int(url[10:16])
-
-urls.sort(key=year)
-
-years = list(set([year(url) for url in urls]))
-
-years.sort()
-
-print(years)
+def biddingRound(fname):
+    return fname[25:27]
 
 def query(module, faculty, sem, accType, newStudent):
-    maxPoints = [0 for _ in range(len(years))]
-    minPoints = [100000 for _ in range(len(years))]
+    location = './dataset/'
 
-    for url in urls:
-        if "Sem" + str(sem) not in url:
+    maxResult = {}
+    minResult = {}
+
+    for fname in os.listdir(location):
+        if fname == 'scraper.py' or semester(fname) != sem:
             continue
 
-        print(url)
+        df = pd.read_csv(location + fname)
 
-        rawHTML = urllib.request.urlopen(main + url).read()
-        HTML = bs.BeautifulSoup(rawHTML, 'lxml')
-
-        pageData = []
-
-        tableRows = HTML.find_all('tr')
-
-        for tr in tableRows:
-            td = tr.find_all('td')
-            row = [entry.text for entry in td]
-
-            # clean row
-            if len(row) < 9:
-                row = pageData[-1][0:2] + row[1:]
-
-            pageData.append(row)
-
-        # create pandas data frame
-        df = pd.DataFrame.from_records(pageData[2:], columns=pageData[0])
-
-        # remove unwanted columns
-        df = df.drop(['Quota', 'NoofBidders', 'LowestBid', 'HighestBid'], axis=1)
-
-        # change data type of all entries to numbers whenever possible
         df = df.apply(pd.to_numeric, errors='ignore')
 
-        # filter new student
-        if newStudent:
-            df = df.drop(df[df['Student Type[Acct Type]'].str.contains("New Students")].index)
-
-        # extract rows with the module code
+        # filter module and faculty
         df = df[df['Module'] == module]
 
-        # extract rows that is associated with your faculty
-        if '_3' not in url:
+        # filter faculty
+        if biddingRound(fname)[0] != '3':
             df = df[df['Faculty'] == faculty]
 
-        maxPoint = df['LowestSuccBid'].max()
-        minPoint = df['LowestSuccBid'].min()
+        # filter newStudent
+        if newStudent:
+            df = df[(df['Student Type[Acct Type]'].str.contains("New Students")) | \
+                    (df['Student Type[Acct Type]'].str.contains("NUS Students"))]
+        else:
+            df = df[(df['Student Type[Acct Type]'].str.contains("Returning Students")) | \
+                    (df['Student Type[Acct Type]'].str.contains("NUS Students"))]
+        
+        # filter accType
+        if accType == 'PROGRAMME':
+            df = df[df['Student Type[Acct Type]'].str.contains('P')]
+        else:
+            df = df[df['Student Type[Acct Type]'].str.contains('G')]
+        
+        if df['LowestSuccBid'].count() == 0:
+            continue
 
-        print(maxPoint, minPoint)
+        maxRes = df['LowestSuccBid'].max()
+        minRes = df['LowestSuccBid'].min()
 
-        if not math.isnan(maxPoint):
-            maxIdx = years.index(year(url))
-            maxPoints[maxIdx] = max(maxPoints[maxIdx], maxPoint)
+        if maxResult.get(year(fname)) == None or maxResult[year(fname)] < maxRes:
+            maxResult[year(fname)] = maxRes
 
-        if not math.isnan(minPoint):
-            minIdx = years.index(year(url))
-            minPoints[minIdx] = min(minPoints[minIdx], minPoint)
+        if minResult.get(year(fname)) == None or minResult[year(fname)] > minRes:
+            minResult[year(fname)] = minRes
 
-    print(years)
-    print(maxPoints)
-    print(minPoints)
+    maxResult = sorted(maxResult.items())
+    minResult = sorted(minResult.items())
 
-    plt.xticks(years, years)
-    plt.plot(years, maxPoints)
-    plt.plot(years, minPoints)
-    plt.legend(['max', 'min'], loc='center left', bbox_to_anchor=(1, 0.5))
+    maxX, maxY = zip(*maxResult)
+    minX, minY = zip(*minResult)
+
+    plt.plot(maxX, maxY)
+    plt.plot(minX, minY)
     plt.show()
 
 query('MA1101R', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
