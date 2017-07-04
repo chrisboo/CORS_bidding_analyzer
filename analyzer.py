@@ -1,4 +1,5 @@
 import os
+import math
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -88,8 +89,11 @@ def query(module, faculty, sem, accType, newStudent):
     # categorical xticks
     plt.xticks(range(len(maxX)), [label(year) for year in maxX], size='small')
 
+    # force y-axis label to use only integers
+    plt.yticks(range(math.floor(min(minY)), math.ceil(max(maxY)) + 1))
+
     plt.suptitle('Bidding History for ' + module, fontsize=20)
 
     plt.show()
 
-query('MA1101RSc', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
+query('CS2020', 'SCHOOL OF COMPUTING', 2, 'PROGRAMME', False)
