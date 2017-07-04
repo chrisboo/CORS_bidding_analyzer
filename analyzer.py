@@ -65,6 +65,10 @@ def query(module, faculty, sem, accType, newStudent):
     maxResult = sorted(maxResult.items())
     minResult = sorted(minResult.items())
 
+    if len(maxResult) == 0:
+        print("There is no result. Please check your query.")
+        return False
+
     maxX, maxY = zip(*maxResult)
     minX, minY = zip(*minResult)
 
@@ -88,4 +92,4 @@ def query(module, faculty, sem, accType, newStudent):
 
     plt.show()
 
-query('MA1101R', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
+query('MA1101RSc', 'SCHOOL OF COMPUTING', 1, 'PROGRAMME', False)
