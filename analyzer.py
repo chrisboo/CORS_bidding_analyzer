@@ -88,12 +88,13 @@ def query(module, faculty, sem, accType, newStudent):
 
     # categorical xticks
     plt.xticks(range(len(maxX)), [label(year) for year in maxX], size='small')
-
-    # force y-axis label to use only integers
-    plt.yticks(range(math.floor(min(minY)), math.ceil(max(maxY)) + 1))
+    
+    # force y-axis label to use only integers if maxY is too small
+    if max(maxY) < 10:
+        plt.yticks(range(math.ceil(max(maxY)) + 1))
 
     plt.suptitle('Bidding History for ' + module, fontsize=20)
 
     plt.show()
 
-query('CS2020', 'SCHOOL OF COMPUTING', 2, 'PROGRAMME', False)
+query('MA1101R', 'SCHOOL OF COMPUTING', 2, 'PROGRAMME', False)
