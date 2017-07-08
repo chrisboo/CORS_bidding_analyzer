@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def semester(fname):
-    return int(fname[23])
+    return fname[23]
 
 def year(fname):
     return fname[11:19]
@@ -75,8 +75,8 @@ def query(module, faculty, sem, accType, newStudent):
 
     # plot
     fig, ax = plt.subplots()
-    topLine = ax.plot(maxY, 'ro-', label='Max lowestSuccBid among all rounds')
-    botLine = ax.plot(minY, 'ko-', label='Min lowestSuccBid among all rounds')
+    topLine = ax.plot(maxY, 'ro-', label='Max lowest success bid among all rounds')
+    botLine = ax.plot(minY, 'ko-', label='Min lowest success bid among all rounds')
 
     # label
     ax.set_xlabel('Academic Year', fontsize=12)
@@ -97,4 +97,4 @@ def query(module, faculty, sem, accType, newStudent):
 
     plt.show()
 
-query('MA1101R', 'SCHOOL OF COMPUTING', 2, 'PROGRAMME', False)
+query('MA1101R', 'SCHOOL OF COMPUTING', '2', 'PROGRAMME', False)
